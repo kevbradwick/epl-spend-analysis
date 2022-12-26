@@ -1,0 +1,85 @@
+---
+title: "English Premier League (1992/93 - 2021/22) Analysis"
+author: "Kevin Bradwick"
+date: "2022-12-26"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+installed.packages(c("tidyverse"))
+```
+
+```{r echo=FALSE, message=FALSE}
+library(tidyverse)
+library(tidyjson)
+library(dplyr)
+library(knitr)
+
+data <- read.csv(file = "92-21-income_expenditure_table_positions.csv")
+```
+
+## Overview
+
+This analysis looks at data from the English Premier Leage from 1992/92 to 2021/22 seasons in order to explore the correlation between transfer spending and success on the pitch. The data was scraped from [Transfermarkt](https://www.transfermarkt.co.uk) and can be downloaded from [this Github repo](https://github.com/kevbradwick/soccer-db).
+
+## Permier League Winners
+
+First, let's take a look at all the title winning clubs and how many times they won it.
+
+```{r echo=FALSE}
+winners <- data %>% 
+  group_by(season) %>% 
+  arrange(position, .by_group = TRUE) %>% 
+  filter(position == 1)
+
+winners_summary <- winners %>% 
+  group_by(club) %>% 
+  summarise(
+    total_wins = n(),
+    total_spend = sum(expenditure_m),
+    total_spend_fmt = formatC(total_spend, format = "f", big.mark = ",", digits = 1),
+    average_expenditure = mean(expenditure_m),
+  ) %>% 
+  arrange(desc(total_wins))
+
+ggplot(winners_summary, aes(x = reorder(club, total_wins), y = total_wins)) +
+  geom_bar(stat = "identity", fill = "steelblue") +
+  geom_text(aes(label = total_wins), colour = "white", hjust = 2) +
+  theme_light() +
+  coord_flip() +
+  labs(x = "Club", y = "Times won")
+```
+
+Manchester United mark their historic dominance with a total of 13 Premier League title wins in 30 seasons. We can take a look at how much each club spent on average and as a total for their title wins.
+
+```{r echo=FALSE}
+kable(winners_summary %>% select(club, total_spend, average_expenditure), caption = "Expenditure for each title win", col.names = c("Club names", "Total Expenditure (M) EUR", "Average per title (M) EUR"))
+```
+
+### Expenditure vs. League Position
+
+Spending big, doesn't equate to a higher league position either. The following scatter plot displays where each club finished against the expenditure for that season.
+
+```{r echo=FALSE}
+ggplot(data, aes(expenditure_m, position)) +
+  geom_point(colour = "steelblue") +
+  theme_light() +
+  labs(x = "Expenditure (M) EUR", y = "Position")
+```
+
+### Spending over time
+
+How has spending in the Premier League changed over time?
+
+```{r echo=FALSE}
+spend_over_time <- data %>% 
+  group_by(season) %>% 
+  summarise(total_expenditure = sum(expenditure_m))
+
+ggplot(spend_over_time, aes(x = season, y = total_expenditure)) +
+  geom_line(colour = "steelblue") +
+  geom_point(shape=21, color="steelblue", fill="white", size=2) +
+  theme_light() +
+  labs(x = "Season", y = "Expenditure (M) EUR")
+```

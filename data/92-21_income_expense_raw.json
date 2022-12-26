@@ -1,0 +1,5456 @@
+[
+  {
+    "season": 1992,
+    "club": "Blackburn Rovers",
+    "expenditure": "\u20ac9.94m",
+    "arrival": "15",
+    "income": "\u20ac2.16m",
+    "departures": "22",
+    "balance": "\u20ac-7.78m"
+  },
+  {
+    "season": 1992,
+    "club": "Tottenham Hotspur",
+    "expenditure": "\u20ac7.58m",
+    "arrival": "18",
+    "income": "\u20ac10.60m",
+    "departures": "15",
+    "balance": "\u20ac3.03m"
+  },
+  {
+    "season": 1992,
+    "club": "Arsenal FC",
+    "expenditure": "\u20ac4.60m",
+    "arrival": "9",
+    "income": "\u20ac3.25m",
+    "departures": "5",
+    "balance": "\u20ac-1.35m"
+  },
+  {
+    "season": 1992,
+    "club": "Liverpool FC",
+    "expenditure": "\u20ac4.15m",
+    "arrival": "6",
+    "income": "\u20ac4.22m",
+    "departures": "8",
+    "balance": "\u20ac72k"
+  },
+  {
+    "season": 1992,
+    "club": "Aston Villa",
+    "expenditure": "\u20ac3.93m",
+    "arrival": "11",
+    "income": "\u20ac894k",
+    "departures": "8",
+    "balance": "\u20ac-3.03m"
+  },
+  {
+    "season": 1992,
+    "club": "Leeds United",
+    "expenditure": "\u20ac3.82m",
+    "arrival": "14",
+    "income": "\u20ac1.87m",
+    "departures": "8",
+    "balance": "\u20ac-1.95m"
+  },
+  {
+    "season": 1992,
+    "club": "Manchester United",
+    "expenditure": "\u20ac3.53m",
+    "arrival": "10",
+    "income": "\u20ac2.22m",
+    "departures": "10",
+    "balance": "\u20ac-1.31m"
+  },
+  {
+    "season": 1992,
+    "club": "Sheffield Wednesday",
+    "expenditure": "\u20ac3.20m",
+    "arrival": "4",
+    "income": "\u20ac140k",
+    "departures": "5",
+    "balance": "\u20ac-3.06m"
+  },
+  {
+    "season": 1992,
+    "club": "Middlesbrough FC",
+    "expenditure": "\u20ac3.18m",
+    "arrival": "11",
+    "income": "\u20ac2.00m",
+    "departures": "10",
+    "balance": "\u20ac-1.18m"
+  },
+  {
+    "season": 1992,
+    "club": "Southampton FC",
+    "expenditure": "\u20ac2.95m",
+    "arrival": "13",
+    "income": "\u20ac5.94m",
+    "departures": "13",
+    "balance": "\u20ac2.99m"
+  },
+  {
+    "season": 1992,
+    "club": "Chelsea FC",
+    "expenditure": "\u20ac2.93m",
+    "arrival": "18",
+    "income": "\u20ac5.98m",
+    "departures": "14",
+    "balance": "\u20ac3.05m"
+  },
+  {
+    "season": 1992,
+    "club": "Oldham Athletic",
+    "expenditure": "\u20ac2.57m",
+    "arrival": "12",
+    "income": "\u20ac187k",
+    "departures": "6",
+    "balance": "\u20ac-2.38m"
+  },
+  {
+    "season": 1992,
+    "club": "Wimbledon FC",
+    "expenditure": "\u20ac2.14m",
+    "arrival": "10",
+    "income": "-",
+    "departures": "6",
+    "balance": "\u20ac-2.14m"
+  },
+  {
+    "season": 1992,
+    "club": "Coventry City",
+    "expenditure": "\u20ac1.46m",
+    "arrival": "13",
+    "income": "\u20ac597k",
+    "departures": "8",
+    "balance": "\u20ac-858k"
+  },
+  {
+    "season": 1992,
+    "club": "Nottingham Forest",
+    "expenditure": "\u20ac1.41m",
+    "arrival": "7",
+    "income": "\u20ac4.85m",
+    "departures": "5",
+    "balance": "\u20ac3.44m"
+  },
+  {
+    "season": 1992,
+    "club": "Crystal Palace",
+    "expenditure": "\u20ac1.34m",
+    "arrival": "12",
+    "income": "\u20ac1.87m",
+    "departures": "10",
+    "balance": "\u20ac527k"
+  },
+  {
+    "season": 1992,
+    "club": "Norwich City",
+    "expenditure": "\u20ac1.00m",
+    "arrival": "8",
+    "income": "\u20ac1.49m",
+    "departures": "11",
+    "balance": "\u20ac494k"
+  },
+  {
+    "season": 1992,
+    "club": "Ipswich Town",
+    "expenditure": "\u20ac750k",
+    "arrival": "8",
+    "income": "\u20ac400k",
+    "departures": "6",
+    "balance": "\u20ac-350k"
+  },
+  {
+    "season": 1992,
+    "club": "Everton FC",
+    "expenditure": "\u20ac703k",
+    "arrival": "9",
+    "income": "\u20ac3.45m",
+    "departures": "5",
+    "balance": "\u20ac2.75m"
+  },
+  {
+    "season": 1992,
+    "club": "Sheffield United",
+    "expenditure": "\u20ac360k",
+    "arrival": "8",
+    "income": "\u20ac227k",
+    "departures": "10",
+    "balance": "\u20ac-134k"
+  },
+  {
+    "season": 1992,
+    "club": "Queens Park Rangers",
+    "expenditure": "\u20ac126k",
+    "arrival": "6",
+    "income": "\u20ac446k",
+    "departures": "4",
+    "balance": "\u20ac320k"
+  },
+  {
+    "season": 1992,
+    "club": "Manchester City",
+    "expenditure": "-",
+    "arrival": "11",
+    "income": "\u20ac1.85m",
+    "departures": "9",
+    "balance": "\u20ac1.85m"
+  },
+  {
+    "season": 1993,
+    "club": "Blackburn Rovers",
+    "expenditure": "\u20ac11.78m",
+    "arrival": "8",
+    "income": "\u20ac738k",
+    "departures": "7",
+    "balance": "\u20ac-11.04m"
+  },
+  {
+    "season": 1993,
+    "club": "Manchester United",
+    "expenditure": "\u20ac8.50m",
+    "arrival": "12",
+    "income": "\u20ac968k",
+    "departures": "10",
+    "balance": "\u20ac-7.53m"
+  },
+  {
+    "season": 1993,
+    "club": "Liverpool FC",
+    "expenditure": "\u20ac8.00m",
+    "arrival": "9",
+    "income": "\u20ac928k",
+    "departures": "12",
+    "balance": "\u20ac-7.07m"
+  },
+  {
+    "season": 1993,
+    "club": "Manchester City",
+    "expenditure": "\u20ac7.59m",
+    "arrival": "14",
+    "income": "-",
+    "departures": "8",
+    "balance": "\u20ac-7.59m"
+  },
+  {
+    "season": 1993,
+    "club": "Sheffield Wednesday",
+    "expenditure": "\u20ac7.40m",
+    "arrival": "9",
+    "income": "\u20ac5.24m",
+    "departures": "7",
+    "balance": "\u20ac-2.17m"
+  },
+  {
+    "season": 1993,
+    "club": "Newcastle United",
+    "expenditure": "\u20ac6.60m",
+    "arrival": "14",
+    "income": "\u20ac5.01m",
+    "departures": "14",
+    "balance": "\u20ac-1.59m"
+  },
+  {
+    "season": 1993,
+    "club": "Leeds United",
+    "expenditure": "\u20ac4.66m",
+    "arrival": "7",
+    "income": "\u20ac8.78m",
+    "departures": "11",
+    "balance": "\u20ac4.12m"
+  },
+  {
+    "season": 1993,
+    "club": "Tottenham Hotspur",
+    "expenditure": "\u20ac4.42m",
+    "arrival": "16",
+    "income": "\u20ac7.08m",
+    "departures": "19",
+    "balance": "\u20ac2.66m"
+  },
+  {
+    "season": 1993,
+    "club": "Aston Villa",
+    "expenditure": "\u20ac4.25m",
+    "arrival": "10",
+    "income": "\u20ac1.15m",
+    "departures": "12",
+    "balance": "\u20ac-3.10m"
+  },
+  {
+    "season": 1993,
+    "club": "Everton FC",
+    "expenditure": "\u20ac4.05m",
+    "arrival": "8",
+    "income": "\u20ac1.70m",
+    "departures": "9",
+    "balance": "\u20ac-2.35m"
+  },
+  {
+    "season": 1993,
+    "club": "Chelsea FC",
+    "expenditure": "\u20ac3.84m",
+    "arrival": "10",
+    "income": "\u20ac4.84m",
+    "departures": "12",
+    "balance": "\u20ac998k"
+  },
+  {
+    "season": 1993,
+    "club": "Southampton FC",
+    "expenditure": "\u20ac2.92m",
+    "arrival": "14",
+    "income": "\u20ac3.87m",
+    "departures": "10",
+    "balance": "\u20ac950k"
+  },
+  {
+    "season": 1993,
+    "club": "Ipswich Town",
+    "expenditure": "\u20ac2.38m",
+    "arrival": "5",
+    "income": "\u20ac2.41m",
+    "departures": "4",
+    "balance": "\u20ac39k"
+  },
+  {
+    "season": 1993,
+    "club": "West Ham United",
+    "expenditure": "\u20ac2.01m",
+    "arrival": "17",
+    "income": "\u20ac2.62m",
+    "departures": "18",
+    "balance": "\u20ac601k"
+  },
+  {
+    "season": 1993,
+    "club": "Swindon Town",
+    "expenditure": "\u20ac1.75m",
+    "arrival": "8",
+    "income": "\u20ac405k",
+    "departures": "8",
+    "balance": "\u20ac-1.34m"
+  },
+  {
+    "season": 1993,
+    "club": "Sheffield United",
+    "expenditure": "\u20ac1.60m",
+    "arrival": "13",
+    "income": "\u20ac4.76m",
+    "departures": "10",
+    "balance": "\u20ac3.17m"
+  },
+  {
+    "season": 1993,
+    "club": "Arsenal FC",
+    "expenditure": "\u20ac1.28m",
+    "arrival": "5",
+    "income": "\u20ac2.28m",
+    "departures": "8",
+    "balance": "\u20ac1.01m"
+  },
+  {
+    "season": 1993,
+    "club": "Coventry City",
+    "expenditure": "\u20ac945k",
+    "arrival": "14",
+    "income": "\u20ac640k",
+    "departures": "17",
+    "balance": "\u20ac-305k"
+  },
+  {
+    "season": 1993,
+    "club": "Queens Park Rangers",
+    "expenditure": "\u20ac820k",
+    "arrival": "8",
+    "income": "\u20ac3.40m",
+    "departures": "9",
+    "balance": "\u20ac2.58m"
+  },
+  {
+    "season": 1993,
+    "club": "Oldham Athletic",
+    "expenditure": "\u20ac628k",
+    "arrival": "9",
+    "income": "\u20ac1.50m",
+    "departures": "9",
+    "balance": "\u20ac873k"
+  },
+  {
+    "season": 1993,
+    "club": "Norwich City",
+    "expenditure": "\u20ac625k",
+    "arrival": "10",
+    "income": "\u20ac3.20m",
+    "departures": "10",
+    "balance": "\u20ac2.58m"
+  },
+  {
+    "season": 1993,
+    "club": "Wimbledon FC",
+    "expenditure": "\u20ac585k",
+    "arrival": "6",
+    "income": "\u20ac352k",
+    "departures": "9",
+    "balance": "\u20ac-233k"
+  },
+  {
+    "season": 1994,
+    "club": "Everton FC",
+    "expenditure": "\u20ac12.38m",
+    "arrival": "13",
+    "income": "\u20ac2.25m",
+    "departures": "15",
+    "balance": "\u20ac-10.13m"
+  },
+  {
+    "season": 1994,
+    "club": "Liverpool FC",
+    "expenditure": "\u20ac12.06m",
+    "arrival": "12",
+    "income": "\u20ac3.75m",
+    "departures": "14",
+    "balance": "\u20ac-8.31m"
+  },
+  {
+    "season": 1994,
+    "club": "Manchester United",
+    "expenditure": "\u20ac11.82m",
+    "arrival": "14",
+    "income": "\u20ac5.52m",
+    "departures": "14",
+    "balance": "\u20ac-6.30m"
+  },
+  {
+    "season": 1994,
+    "club": "Newcastle United",
+    "expenditure": "\u20ac10.88m",
+    "arrival": "10",
+    "income": "\u20ac11.02m",
+    "departures": "10",
+    "balance": "\u20ac145k"
+  },
+  {
+    "season": 1994,
+    "club": "Blackburn Rovers",
+    "expenditure": "\u20ac9.75m",
+    "arrival": "9",
+    "income": "\u20ac4.02m",
+    "departures": "9",
+    "balance": "\u20ac-5.73m"
+  },
+  {
+    "season": 1994,
+    "club": "Tottenham Hotspur",
+    "expenditure": "\u20ac9.35m",
+    "arrival": "16",
+    "income": "\u20ac95k",
+    "departures": "16",
+    "balance": "\u20ac-9.26m"
+  },
+  {
+    "season": 1994,
+    "club": "West Ham United",
+    "expenditure": "\u20ac8.37m",
+    "arrival": "19",
+    "income": "\u20ac2.26m",
+    "departures": "15",
+    "balance": "\u20ac-6.11m"
+  },
+  {
+    "season": 1994,
+    "club": "Aston Villa",
+    "expenditure": "\u20ac7.34m",
+    "arrival": "10",
+    "income": "\u20ac9.30m",
+    "departures": "14",
+    "balance": "\u20ac1.96m"
+  },
+  {
+    "season": 1994,
+    "club": "Arsenal FC",
+    "expenditure": "\u20ac7.18m",
+    "arrival": "12",
+    "income": "\u20ac4.20m",
+    "departures": "7",
+    "balance": "\u20ac-2.98m"
+  },
+  {
+    "season": 1994,
+    "club": "Coventry City",
+    "expenditure": "\u20ac7.08m",
+    "arrival": "19",
+    "income": "\u20ac6.73m",
+    "departures": "14",
+    "balance": "\u20ac-350k"
+  },
+  {
+    "season": 1994,
+    "club": "Nottingham Forest",
+    "expenditure": "\u20ac6.70m",
+    "arrival": "8",
+    "income": "\u20ac240k",
+    "departures": "7",
+    "balance": "\u20ac-6.46m"
+  },
+  {
+    "season": 1994,
+    "club": "Chelsea FC",
+    "expenditure": "\u20ac6.13m",
+    "arrival": "11",
+    "income": "\u20ac1.75m",
+    "departures": "8",
+    "balance": "\u20ac-4.38m"
+  },
+  {
+    "season": 1994,
+    "club": "Leeds United",
+    "expenditure": "\u20ac4.93m",
+    "arrival": "12",
+    "income": "\u20ac1.86m",
+    "departures": "9",
+    "balance": "\u20ac-3.07m"
+  },
+  {
+    "season": 1994,
+    "club": "Sheffield Wednesday",
+    "expenditure": "\u20ac4.46m",
+    "arrival": "9",
+    "income": "\u20ac8.33m",
+    "departures": "10",
+    "balance": "\u20ac3.88m"
+  },
+  {
+    "season": 1994,
+    "club": "Leicester City",
+    "expenditure": "\u20ac3.70m",
+    "arrival": "11",
+    "income": "\u20ac1.29m",
+    "departures": "12",
+    "balance": "\u20ac-2.41m"
+  },
+  {
+    "season": 1994,
+    "club": "Norwich City",
+    "expenditure": "\u20ac3.46m",
+    "arrival": "11",
+    "income": "\u20ac10.42m",
+    "departures": "10",
+    "balance": "\u20ac6.96m"
+  },
+  {
+    "season": 1994,
+    "club": "Wimbledon FC",
+    "expenditure": "\u20ac3.33m",
+    "arrival": "16",
+    "income": "\u20ac5.72m",
+    "departures": "8",
+    "balance": "\u20ac2.39m"
+  },
+  {
+    "season": 1994,
+    "club": "Southampton FC",
+    "expenditure": "\u20ac3.29m",
+    "arrival": "8",
+    "income": "\u20ac3.05m",
+    "departures": "16",
+    "balance": "\u20ac-238k"
+  },
+  {
+    "season": 1994,
+    "club": "Manchester City",
+    "expenditure": "\u20ac2.50m",
+    "arrival": "12",
+    "income": "\u20ac2.86m",
+    "departures": "12",
+    "balance": "\u20ac355k"
+  },
+  {
+    "season": 1994,
+    "club": "Crystal Palace",
+    "expenditure": "\u20ac1.75m",
+    "arrival": "15",
+    "income": "\u20ac1.01m",
+    "departures": "12",
+    "balance": "\u20ac-738k"
+  },
+  {
+    "season": 1994,
+    "club": "Ipswich Town",
+    "expenditure": "\u20ac1.02m",
+    "arrival": "12",
+    "income": "\u20ac2.45m",
+    "departures": "6",
+    "balance": "\u20ac1.43m"
+  },
+  {
+    "season": 1994,
+    "club": "Queens Park Rangers",
+    "expenditure": "\u20ac360k",
+    "arrival": "7",
+    "income": "\u20ac5.14m",
+    "departures": "10",
+    "balance": "\u20ac4.78m"
+  },
+  {
+    "season": 1995,
+    "club": "Newcastle United",
+    "expenditure": "\u20ac32.20m",
+    "arrival": "9",
+    "income": "\u20ac9.45m",
+    "departures": "11",
+    "balance": "\u20ac-22.75m"
+  },
+  {
+    "season": 1995,
+    "club": "Liverpool FC",
+    "expenditure": "\u20ac19.25m",
+    "arrival": "12",
+    "income": "\u20ac1.70m",
+    "departures": "9",
+    "balance": "\u20ac-17.55m"
+  },
+  {
+    "season": 1995,
+    "club": "Arsenal FC",
+    "expenditure": "\u20ac18.35m",
+    "arrival": "7",
+    "income": "\u20ac2.20m",
+    "departures": "6",
+    "balance": "\u20ac-16.15m"
+  },
+  {
+    "season": 1995,
+    "club": "Everton FC",
+    "expenditure": "\u20ac16.98m",
+    "arrival": "17",
+    "income": "\u20ac420k",
+    "departures": "12",
+    "balance": "\u20ac-16.56m"
+  },
+  {
+    "season": 1995,
+    "club": "Blackburn Rovers",
+    "expenditure": "\u20ac16.50m",
+    "arrival": "14",
+    "income": "\u20ac5.60m",
+    "departures": "10",
+    "balance": "\u20ac-10.90m"
+  },
+  {
+    "season": 1995,
+    "club": "Tottenham Hotspur",
+    "expenditure": "\u20ac13.37m",
+    "arrival": "20",
+    "income": "\u20ac14.20m",
+    "departures": "19",
+    "balance": "\u20ac830k"
+  },
+  {
+    "season": 1995,
+    "club": "Middlesbrough FC",
+    "expenditure": "\u20ac13.00m",
+    "arrival": "11",
+    "income": "\u20ac375k",
+    "departures": "13",
+    "balance": "\u20ac-12.63m"
+  },
+  {
+    "season": 1995,
+    "club": "Sheffield Wednesday",
+    "expenditure": "\u20ac12.75m",
+    "arrival": "15",
+    "income": "\u20ac6.30m",
+    "departures": "15",
+    "balance": "\u20ac-6.45m"
+  },
+  {
+    "season": 1995,
+    "club": "Manchester City",
+    "expenditure": "\u20ac11.76m",
+    "arrival": "22",
+    "income": "\u20ac6.93m",
+    "departures": "22",
+    "balance": "\u20ac-4.83m"
+  },
+  {
+    "season": 1995,
+    "club": "Aston Villa",
+    "expenditure": "\u20ac11.06m",
+    "arrival": "12",
+    "income": "\u20ac4.90m",
+    "departures": "13",
+    "balance": "\u20ac-6.16m"
+  },
+  {
+    "season": 1995,
+    "club": "Bolton Wanderers",
+    "expenditure": "\u20ac9.49m",
+    "arrival": "14",
+    "income": "\u20ac7.07m",
+    "departures": "9",
+    "balance": "\u20ac-2.42m"
+  },
+  {
+    "season": 1995,
+    "club": "Coventry City",
+    "expenditure": "\u20ac6.25m",
+    "arrival": "20",
+    "income": "\u20ac2.57m",
+    "departures": "19",
+    "balance": "\u20ac-3.68m"
+  },
+  {
+    "season": 1995,
+    "club": "Queens Park Rangers",
+    "expenditure": "\u20ac5.33m",
+    "arrival": "13",
+    "income": "\u20ac12.64m",
+    "departures": "14",
+    "balance": "\u20ac7.30m"
+  },
+  {
+    "season": 1995,
+    "club": "West Ham United",
+    "expenditure": "\u20ac4.72m",
+    "arrival": "23",
+    "income": "\u20ac5.07m",
+    "departures": "22",
+    "balance": "\u20ac350k"
+  },
+  {
+    "season": 1995,
+    "club": "Leeds United",
+    "expenditure": "\u20ac4.70m",
+    "arrival": "14",
+    "income": "\u20ac5.02m",
+    "departures": "12",
+    "balance": "\u20ac320k"
+  },
+  {
+    "season": 1995,
+    "club": "Nottingham Forest",
+    "expenditure": "\u20ac3.84m",
+    "arrival": "15",
+    "income": "\u20ac14.71m",
+    "departures": "13",
+    "balance": "\u20ac10.86m"
+  },
+  {
+    "season": 1995,
+    "club": "Southampton FC",
+    "expenditure": "\u20ac2.24m",
+    "arrival": "7",
+    "income": "\u20ac123k",
+    "departures": "6",
+    "balance": "\u20ac-2.12m"
+  },
+  {
+    "season": 1995,
+    "club": "Chelsea FC",
+    "expenditure": "\u20ac1.90m",
+    "arrival": "11",
+    "income": "\u20ac1.84m",
+    "departures": "9",
+    "balance": "\u20ac-65k"
+  },
+  {
+    "season": 1995,
+    "club": "Wimbledon FC",
+    "expenditure": "\u20ac855k",
+    "arrival": "15",
+    "income": "\u20ac4.50m",
+    "departures": "12",
+    "balance": "\u20ac3.65m"
+  },
+  {
+    "season": 1995,
+    "club": "Manchester United",
+    "expenditure": "\u20ac575k",
+    "arrival": "9",
+    "income": "\u20ac19.99m",
+    "departures": "11",
+    "balance": "\u20ac19.42m"
+  },
+  {
+    "season": 1996,
+    "club": "Newcastle United",
+    "expenditure": "\u20ac18.00m",
+    "arrival": "11",
+    "income": "\u20ac8.46m",
+    "departures": "11",
+    "balance": "\u20ac-9.54m"
+  },
+  {
+    "season": 1996,
+    "club": "Leeds United",
+    "expenditure": "\u20ac16.63m",
+    "arrival": "13",
+    "income": "\u20ac950k",
+    "departures": "15",
+    "balance": "\u20ac-15.68m"
+  },
+  {
+    "season": 1996,
+    "club": "Middlesbrough FC",
+    "expenditure": "\u20ac16.28m",
+    "arrival": "19",
+    "income": "\u20ac9.70m",
+    "departures": "15",
+    "balance": "\u20ac-6.58m"
+  },
+  {
+    "season": 1996,
+    "club": "Chelsea FC",
+    "expenditure": "\u20ac15.57m",
+    "arrival": "15",
+    "income": "\u20ac4.59m",
+    "departures": "16",
+    "balance": "\u20ac-10.98m"
+  },
+  {
+    "season": 1996,
+    "club": "West Ham United",
+    "expenditure": "\u20ac14.80m",
+    "arrival": "22",
+    "income": "\u20ac2.26m",
+    "departures": "24",
+    "balance": "\u20ac-12.54m"
+  },
+  {
+    "season": 1996,
+    "club": "Manchester United",
+    "expenditure": "\u20ac11.23m",
+    "arrival": "14",
+    "income": "\u20ac7.99m",
+    "departures": "13",
+    "balance": "\u20ac-3.24m"
+  },
+  {
+    "season": 1996,
+    "club": "Everton FC",
+    "expenditure": "\u20ac10.75m",
+    "arrival": "12",
+    "income": "\u20ac15.39m",
+    "departures": "15",
+    "balance": "\u20ac4.64m"
+  },
+  {
+    "season": 1996,
+    "club": "Nottingham Forest",
+    "expenditure": "\u20ac9.69m",
+    "arrival": "23",
+    "income": "\u20ac705k",
+    "departures": "18",
+    "balance": "\u20ac-8.98m"
+  },
+  {
+    "season": 1996,
+    "club": "Sheffield Wednesday",
+    "expenditure": "\u20ac9.04m",
+    "arrival": "17",
+    "income": "\u20ac8.31m",
+    "departures": "11",
+    "balance": "\u20ac-727k"
+  },
+  {
+    "season": 1996,
+    "club": "Leicester City",
+    "expenditure": "\u20ac8.94m",
+    "arrival": "12",
+    "income": "\u20ac3.80m",
+    "departures": "10",
+    "balance": "\u20ac-5.13m"
+  },
+  {
+    "season": 1996,
+    "club": "Tottenham Hotspur",
+    "expenditure": "\u20ac8.25m",
+    "arrival": "17",
+    "income": "\u20ac1.68m",
+    "departures": "15",
+    "balance": "\u20ac-6.57m"
+  },
+  {
+    "season": 1996,
+    "club": "Aston Villa",
+    "expenditure": "\u20ac8.10m",
+    "arrival": "7",
+    "income": "\u20ac4.39m",
+    "departures": "7",
+    "balance": "\u20ac-3.71m"
+  },
+  {
+    "season": 1996,
+    "club": "Coventry City",
+    "expenditure": "\u20ac8.00m",
+    "arrival": "13",
+    "income": "\u20ac2.00m",
+    "departures": "13",
+    "balance": "\u20ac-6.00m"
+  },
+  {
+    "season": 1996,
+    "club": "Sunderland AFC",
+    "expenditure": "\u20ac7.43m",
+    "arrival": "14",
+    "income": "\u20ac180k",
+    "departures": "9",
+    "balance": "\u20ac-7.25m"
+  },
+  {
+    "season": 1996,
+    "club": "Arsenal FC",
+    "expenditure": "\u20ac6.11m",
+    "arrival": "11",
+    "income": "\u20ac8.15m",
+    "departures": "14",
+    "balance": "\u20ac2.04m"
+  },
+  {
+    "season": 1996,
+    "club": "Derby County",
+    "expenditure": "\u20ac3.79m",
+    "arrival": "24",
+    "income": "\u20ac591k",
+    "departures": "26",
+    "balance": "\u20ac-3.19m"
+  },
+  {
+    "season": 1996,
+    "club": "Liverpool FC",
+    "expenditure": "\u20ac3.50m",
+    "arrival": "7",
+    "income": "\u20ac3.00m",
+    "departures": "9",
+    "balance": "\u20ac-500k"
+  },
+  {
+    "season": 1996,
+    "club": "Southampton FC",
+    "expenditure": "\u20ac3.24m",
+    "arrival": "18",
+    "income": "\u20ac5.13m",
+    "departures": "19",
+    "balance": "\u20ac1.89m"
+  },
+  {
+    "season": 1996,
+    "club": "Wimbledon FC",
+    "expenditure": "\u20ac2.88m",
+    "arrival": "6",
+    "income": "\u20ac120k",
+    "departures": "14",
+    "balance": "\u20ac-2.76m"
+  },
+  {
+    "season": 1996,
+    "club": "Blackburn Rovers",
+    "expenditure": "-",
+    "arrival": "5",
+    "income": "\u20ac18.92m",
+    "departures": "5",
+    "balance": "\u20ac18.92m"
+  },
+  {
+    "season": 1997,
+    "club": "Newcastle United",
+    "expenditure": "\u20ac33.59m",
+    "arrival": "29",
+    "income": "\u20ac18.12m",
+    "departures": "14",
+    "balance": "\u20ac-15.47m"
+  },
+  {
+    "season": 1997,
+    "club": "Arsenal FC",
+    "expenditure": "\u20ac22.03m",
+    "arrival": "17",
+    "income": "\u20ac8.42m",
+    "departures": "13",
+    "balance": "\u20ac-13.61m"
+  },
+  {
+    "season": 1997,
+    "club": "Liverpool FC",
+    "expenditure": "\u20ac18.55m",
+    "arrival": "13",
+    "income": "\u20ac13.02m",
+    "departures": "11",
+    "balance": "\u20ac-5.53m"
+  },
+  {
+    "season": 1997,
+    "club": "Chelsea FC",
+    "expenditure": "\u20ac17.80m",
+    "arrival": "12",
+    "income": "\u20ac2.55m",
+    "departures": "11",
+    "balance": "\u20ac-15.25m"
+  },
+  {
+    "season": 1997,
+    "club": "Tottenham Hotspur",
+    "expenditure": "\u20ac17.70m",
+    "arrival": "15",
+    "income": "\u20ac5.78m",
+    "departures": "16",
+    "balance": "\u20ac-11.92m"
+  },
+  {
+    "season": 1997,
+    "club": "Leeds United",
+    "expenditure": "\u20ac15.91m",
+    "arrival": "17",
+    "income": "\u20ac5.35m",
+    "departures": "15",
+    "balance": "\u20ac-10.56m"
+  },
+  {
+    "season": 1997,
+    "club": "Bolton Wanderers",
+    "expenditure": "\u20ac14.21m",
+    "arrival": "22",
+    "income": "\u20ac1.91m",
+    "departures": "20",
+    "balance": "\u20ac-12.30m"
+  },
+  {
+    "season": 1997,
+    "club": "Crystal Palace",
+    "expenditure": "\u20ac13.70m",
+    "arrival": "25",
+    "income": "\u20ac6.09m",
+    "departures": "19",
+    "balance": "\u20ac-7.61m"
+  },
+  {
+    "season": 1997,
+    "club": "Manchester United",
+    "expenditure": "\u20ac13.55m",
+    "arrival": "21",
+    "income": "\u20ac4.42m",
+    "departures": "17",
+    "balance": "\u20ac-9.13m"
+  },
+  {
+    "season": 1997,
+    "club": "West Ham United",
+    "expenditure": "\u20ac12.60m",
+    "arrival": "20",
+    "income": "\u20ac2.00m",
+    "departures": "16",
+    "balance": "\u20ac-10.60m"
+  },
+  {
+    "season": 1997,
+    "club": "Sheffield Wednesday",
+    "expenditure": "\u20ac10.99m",
+    "arrival": "21",
+    "income": "\u20ac4.90m",
+    "departures": "17",
+    "balance": "\u20ac-6.09m"
+  },
+  {
+    "season": 1997,
+    "club": "Aston Villa",
+    "expenditure": "\u20ac10.50m",
+    "arrival": "5",
+    "income": "\u20ac3.35m",
+    "departures": "6",
+    "balance": "\u20ac-7.15m"
+  },
+  {
+    "season": 1997,
+    "club": "Blackburn Rovers",
+    "expenditure": "\u20ac10.13m",
+    "arrival": "22",
+    "income": "\u20ac30.43m",
+    "departures": "22",
+    "balance": "\u20ac20.30m"
+  },
+  {
+    "season": 1997,
+    "club": "Southampton FC",
+    "expenditure": "\u20ac8.88m",
+    "arrival": "18",
+    "income": "\u20ac4.93m",
+    "departures": "18",
+    "balance": "\u20ac-3.95m"
+  },
+  {
+    "season": 1997,
+    "club": "Everton FC",
+    "expenditure": "\u20ac8.33m",
+    "arrival": "21",
+    "income": "\u20ac14.25m",
+    "departures": "17",
+    "balance": "\u20ac5.93m"
+  },
+  {
+    "season": 1997,
+    "club": "Barnsley FC",
+    "expenditure": "\u20ac6.49m",
+    "arrival": "13",
+    "income": "\u20ac190k",
+    "departures": "9",
+    "balance": "\u20ac-6.30m"
+  },
+  {
+    "season": 1997,
+    "club": "Wimbledon FC",
+    "expenditure": "\u20ac5.21m",
+    "arrival": "5",
+    "income": "\u20ac11.20m",
+    "departures": "6",
+    "balance": "\u20ac5.99m"
+  },
+  {
+    "season": 1997,
+    "club": "Coventry City",
+    "expenditure": "\u20ac4.65m",
+    "arrival": "14",
+    "income": "\u20ac3.75m",
+    "departures": "18",
+    "balance": "\u20ac-900k"
+  },
+  {
+    "season": 1997,
+    "club": "Derby County",
+    "expenditure": "\u20ac3.80m",
+    "arrival": "12",
+    "income": "\u20ac2.92m",
+    "departures": "11",
+    "balance": "\u20ac-880k"
+  },
+  {
+    "season": 1997,
+    "club": "Leicester City",
+    "expenditure": "\u20ac3.65m",
+    "arrival": "15",
+    "income": "\u20ac1.28m",
+    "departures": "15",
+    "balance": "\u20ac-2.38m"
+  },
+  {
+    "season": 1998,
+    "club": "Blackburn Rovers",
+    "expenditure": "\u20ac56.39m",
+    "arrival": "27",
+    "income": "\u20ac16.05m",
+    "departures": "20",
+    "balance": "\u20ac-40.34m"
+  },
+  {
+    "season": 1998,
+    "club": "Manchester United",
+    "expenditure": "\u20ac44.75m",
+    "arrival": "12",
+    "income": "\u20ac3.75m",
+    "departures": "16",
+    "balance": "\u20ac-41.00m"
+  },
+  {
+    "season": 1998,
+    "club": "Aston Villa",
+    "expenditure": "\u20ac42.80m",
+    "arrival": "19",
+    "income": "\u20ac24.98m",
+    "departures": "11",
+    "balance": "\u20ac-17.82m"
+  },
+  {
+    "season": 1998,
+    "club": "Newcastle United",
+    "expenditure": "\u20ac42.60m",
+    "arrival": "25",
+    "income": "\u20ac30.30m",
+    "departures": "25",
+    "balance": "\u20ac-12.30m"
+  },
+  {
+    "season": 1998,
+    "club": "Everton FC",
+    "expenditure": "\u20ac29.65m",
+    "arrival": "17",
+    "income": "\u20ac12.55m",
+    "departures": "13",
+    "balance": "\u20ac-17.10m"
+  },
+  {
+    "season": 1998,
+    "club": "Chelsea FC",
+    "expenditure": "\u20ac19.30m",
+    "arrival": "15",
+    "income": "\u20ac5.85m",
+    "departures": "15",
+    "balance": "\u20ac-13.45m"
+  },
+  {
+    "season": 1998,
+    "club": "Wimbledon FC",
+    "expenditure": "\u20ac16.75m",
+    "arrival": "9",
+    "income": "-",
+    "departures": "6",
+    "balance": "\u20ac-16.75m"
+  },
+  {
+    "season": 1998,
+    "club": "Arsenal FC",
+    "expenditure": "\u20ac15.95m",
+    "arrival": "17",
+    "income": "\u20ac750k",
+    "departures": "12",
+    "balance": "\u20ac-15.20m"
+  },
+  {
+    "season": 1998,
+    "club": "Liverpool FC",
+    "expenditure": "\u20ac13.49m",
+    "arrival": "15",
+    "income": "\u20ac7.03m",
+    "departures": "9",
+    "balance": "\u20ac-6.46m"
+  },
+  {
+    "season": 1998,
+    "club": "Middlesbrough FC",
+    "expenditure": "\u20ac12.08m",
+    "arrival": "14",
+    "income": "\u20ac13.85m",
+    "departures": "13",
+    "balance": "\u20ac1.78m"
+  },
+  {
+    "season": 1998,
+    "club": "West Ham United",
+    "expenditure": "\u20ac11.14m",
+    "arrival": "26",
+    "income": "\u20ac19.01m",
+    "departures": "20",
+    "balance": "\u20ac7.88m"
+  },
+  {
+    "season": 1998,
+    "club": "Tottenham Hotspur",
+    "expenditure": "\u20ac9.78m",
+    "arrival": "17",
+    "income": "\u20ac1.80m",
+    "departures": "15",
+    "balance": "\u20ac-7.98m"
+  },
+  {
+    "season": 1998,
+    "club": "Leicester City",
+    "expenditure": "\u20ac8.90m",
+    "arrival": "13",
+    "income": "\u20ac1.00m",
+    "departures": "10",
+    "balance": "\u20ac-7.90m"
+  },
+  {
+    "season": 1998,
+    "club": "Nottingham Forest",
+    "expenditure": "\u20ac8.80m",
+    "arrival": "29",
+    "income": "\u20ac18.45m",
+    "departures": "28",
+    "balance": "\u20ac9.65m"
+  },
+  {
+    "season": 1998,
+    "club": "Leeds United",
+    "expenditure": "\u20ac8.45m",
+    "arrival": "18",
+    "income": "\u20ac200k",
+    "departures": "14",
+    "balance": "\u20ac-8.25m"
+  },
+  {
+    "season": 1998,
+    "club": "Coventry City",
+    "expenditure": "\u20ac7.70m",
+    "arrival": "20",
+    "income": "\u20ac12.80m",
+    "departures": "15",
+    "balance": "\u20ac5.11m"
+  },
+  {
+    "season": 1998,
+    "club": "Southampton FC",
+    "expenditure": "\u20ac7.30m",
+    "arrival": "19",
+    "income": "\u20ac12.90m",
+    "departures": "13",
+    "balance": "\u20ac5.60m"
+  },
+  {
+    "season": 1998,
+    "club": "Charlton Athletic",
+    "expenditure": "\u20ac6.19m",
+    "arrival": "18",
+    "income": "\u20ac300k",
+    "departures": "10",
+    "balance": "\u20ac-5.89m"
+  },
+  {
+    "season": 1998,
+    "club": "Derby County",
+    "expenditure": "\u20ac5.69m",
+    "arrival": "19",
+    "income": "\u20ac16.15m",
+    "departures": "17",
+    "balance": "\u20ac10.46m"
+  },
+  {
+    "season": 1998,
+    "club": "Sheffield Wednesday",
+    "expenditure": "\u20ac4.61m",
+    "arrival": "18",
+    "income": "\u20ac3.13m",
+    "departures": "17",
+    "balance": "\u20ac-1.49m"
+  },
+  {
+    "season": 1999,
+    "club": "Liverpool FC",
+    "expenditure": "\u20ac54.50m",
+    "arrival": "17",
+    "income": "\u20ac11.58m",
+    "departures": "18",
+    "balance": "\u20ac-42.93m"
+  },
+  {
+    "season": 1999,
+    "club": "Leeds United",
+    "expenditure": "\u20ac35.71m",
+    "arrival": "11",
+    "income": "\u20ac22.25m",
+    "departures": "16",
+    "balance": "\u20ac-13.46m"
+  },
+  {
+    "season": 1999,
+    "club": "Newcastle United",
+    "expenditure": "\u20ac27.25m",
+    "arrival": "23",
+    "income": "\u20ac21.45m",
+    "departures": "21",
+    "balance": "\u20ac-5.80m"
+  },
+  {
+    "season": 1999,
+    "club": "Chelsea FC",
+    "expenditure": "\u20ac26.36m",
+    "arrival": "20",
+    "income": "\u20ac7.88m",
+    "departures": "18",
+    "balance": "\u20ac-18.48m"
+  },
+  {
+    "season": 1999,
+    "club": "Arsenal FC",
+    "expenditure": "\u20ac25.40m",
+    "arrival": "21",
+    "income": "\u20ac41.55m",
+    "departures": "20",
+    "balance": "\u20ac16.15m"
+  },
+  {
+    "season": 1999,
+    "club": "Coventry City",
+    "expenditure": "\u20ac20.33m",
+    "arrival": "20",
+    "income": "\u20ac15.40m",
+    "departures": "16",
+    "balance": "\u20ac-4.93m"
+  },
+  {
+    "season": 1999,
+    "club": "Tottenham Hotspur",
+    "expenditure": "\u20ac17.00m",
+    "arrival": "15",
+    "income": "\u20ac1.80m",
+    "departures": "16",
+    "balance": "\u20ac-15.20m"
+  },
+  {
+    "season": 1999,
+    "club": "Sunderland AFC",
+    "expenditure": "\u20ac16.70m",
+    "arrival": "28",
+    "income": "\u20ac12.10m",
+    "departures": "24",
+    "balance": "\u20ac-4.60m"
+  },
+  {
+    "season": 1999,
+    "club": "Derby County",
+    "expenditure": "\u20ac16.40m",
+    "arrival": "18",
+    "income": "\u20ac7.65m",
+    "departures": "16",
+    "balance": "\u20ac-8.75m"
+  },
+  {
+    "season": 1999,
+    "club": "Middlesbrough FC",
+    "expenditure": "\u20ac10.32m",
+    "arrival": "12",
+    "income": "\u20ac50k",
+    "departures": "13",
+    "balance": "\u20ac-10.27m"
+  },
+  {
+    "season": 1999,
+    "club": "Aston Villa",
+    "expenditure": "\u20ac9.60m",
+    "arrival": "13",
+    "income": "\u20ac5.32m",
+    "departures": "18",
+    "balance": "\u20ac-4.28m"
+  },
+  {
+    "season": 1999,
+    "club": "Wimbledon FC",
+    "expenditure": "\u20ac8.25m",
+    "arrival": "15",
+    "income": "\u20ac8.84m",
+    "departures": "16",
+    "balance": "\u20ac594k"
+  },
+  {
+    "season": 1999,
+    "club": "Sheffield Wednesday",
+    "expenditure": "\u20ac8.00m",
+    "arrival": "16",
+    "income": "\u20ac4.04m",
+    "departures": "19",
+    "balance": "\u20ac-3.96m"
+  },
+  {
+    "season": 1999,
+    "club": "Manchester United",
+    "expenditure": "\u20ac7.95m",
+    "arrival": "22",
+    "income": "\u20ac350k",
+    "departures": "10",
+    "balance": "\u20ac-7.60m"
+  },
+  {
+    "season": 1999,
+    "club": "West Ham United",
+    "expenditure": "\u20ac7.78m",
+    "arrival": "33",
+    "income": "\u20ac11.20m",
+    "departures": "30",
+    "balance": "\u20ac3.42m"
+  },
+  {
+    "season": 1999,
+    "club": "Everton FC",
+    "expenditure": "\u20ac7.60m",
+    "arrival": "14",
+    "income": "\u20ac20.83m",
+    "departures": "20",
+    "balance": "\u20ac13.23m"
+  },
+  {
+    "season": 1999,
+    "club": "Leicester City",
+    "expenditure": "\u20ac6.30m",
+    "arrival": "13",
+    "income": "\u20ac16.58m",
+    "departures": "12",
+    "balance": "\u20ac10.28m"
+  },
+  {
+    "season": 1999,
+    "club": "Watford FC",
+    "expenditure": "\u20ac4.40m",
+    "arrival": "15",
+    "income": "\u20ac492k",
+    "departures": "10",
+    "balance": "\u20ac-3.91m"
+  },
+  {
+    "season": 1999,
+    "club": "Southampton FC",
+    "expenditure": "\u20ac3.43m",
+    "arrival": "19",
+    "income": "\u20ac705k",
+    "departures": "20",
+    "balance": "\u20ac-2.72m"
+  },
+  {
+    "season": 1999,
+    "club": "Bradford City",
+    "expenditure": "\u20ac2.69m",
+    "arrival": "16",
+    "income": "\u20ac829k",
+    "departures": "11",
+    "balance": "\u20ac-1.86m"
+  },
+  {
+    "season": 2000,
+    "club": "Arsenal FC",
+    "expenditure": "\u20ac56.30m",
+    "arrival": "24",
+    "income": "\u20ac49.53m",
+    "departures": "21",
+    "balance": "\u20ac-6.78m"
+  },
+  {
+    "season": 2000,
+    "club": "Leeds United",
+    "expenditure": "\u20ac53.15m",
+    "arrival": "11",
+    "income": "\u20ac12.33m",
+    "departures": "11",
+    "balance": "\u20ac-40.82m"
+  },
+  {
+    "season": 2000,
+    "club": "Chelsea FC",
+    "expenditure": "\u20ac52.39m",
+    "arrival": "24",
+    "income": "\u20ac37.72m",
+    "departures": "20",
+    "balance": "\u20ac-14.67m"
+  },
+  {
+    "season": 2000,
+    "club": "Everton FC",
+    "expenditure": "\u20ac34.48m",
+    "arrival": "18",
+    "income": "\u20ac35.55m",
+    "departures": "18",
+    "balance": "\u20ac1.07m"
+  },
+  {
+    "season": 2000,
+    "club": "Liverpool FC",
+    "expenditure": "\u20ac34.00m",
+    "arrival": "20",
+    "income": "\u20ac19.61m",
+    "departures": "16",
+    "balance": "\u20ac-14.40m"
+  },
+  {
+    "season": 2000,
+    "club": "Middlesbrough FC",
+    "expenditure": "\u20ac33.47m",
+    "arrival": "23",
+    "income": "\u20ac10.00m",
+    "departures": "17",
+    "balance": "\u20ac-23.47m"
+  },
+  {
+    "season": 2000,
+    "club": "Newcastle United",
+    "expenditure": "\u20ac25.91m",
+    "arrival": "19",
+    "income": "\u20ac26.39m",
+    "departures": "21",
+    "balance": "\u20ac475k"
+  },
+  {
+    "season": 2000,
+    "club": "Tottenham Hotspur",
+    "expenditure": "\u20ac25.74m",
+    "arrival": "9",
+    "income": "\u20ac2.46m",
+    "departures": "12",
+    "balance": "\u20ac-23.29m"
+  },
+  {
+    "season": 2000,
+    "club": "Aston Villa",
+    "expenditure": "\u20ac21.12m",
+    "arrival": "16",
+    "income": "\u20ac20.82m",
+    "departures": "13",
+    "balance": "\u20ac-305k"
+  },
+  {
+    "season": 2000,
+    "club": "Charlton Athletic",
+    "expenditure": "\u20ac20.80m",
+    "arrival": "15",
+    "income": "\u20ac532k",
+    "departures": "16",
+    "balance": "\u20ac-20.27m"
+  },
+  {
+    "season": 2000,
+    "club": "Manchester City",
+    "expenditure": "\u20ac20.28m",
+    "arrival": "23",
+    "income": "\u20ac1.46m",
+    "departures": "25",
+    "balance": "\u20ac-18.81m"
+  },
+  {
+    "season": 2000,
+    "club": "Coventry City",
+    "expenditure": "\u20ac19.00m",
+    "arrival": "15",
+    "income": "\u20ac26.28m",
+    "departures": "16",
+    "balance": "\u20ac7.28m"
+  },
+  {
+    "season": 2000,
+    "club": "West Ham United",
+    "expenditure": "\u20ac18.65m",
+    "arrival": "26",
+    "income": "\u20ac42.40m",
+    "departures": "28",
+    "balance": "\u20ac23.75m"
+  },
+  {
+    "season": 2000,
+    "club": "Sunderland AFC",
+    "expenditure": "\u20ac16.87m",
+    "arrival": "20",
+    "income": "\u20ac5.53m",
+    "departures": "24",
+    "balance": "\u20ac-11.34m"
+  },
+  {
+    "season": 2000,
+    "club": "Derby County",
+    "expenditure": "\u20ac13.33m",
+    "arrival": "16",
+    "income": "\u20ac6.88m",
+    "departures": "14",
+    "balance": "\u20ac-6.45m"
+  },
+  {
+    "season": 2000,
+    "club": "Manchester United",
+    "expenditure": "\u20ac11.70m",
+    "arrival": "9",
+    "income": "\u20ac9.88m",
+    "departures": "14",
+    "balance": "\u20ac-1.83m"
+  },
+  {
+    "season": 2000,
+    "club": "Leicester City",
+    "expenditure": "\u20ac11.70m",
+    "arrival": "18",
+    "income": "\u20ac9.70m",
+    "departures": "18",
+    "balance": "\u20ac-2.00m"
+  },
+  {
+    "season": 2000,
+    "club": "Ipswich Town",
+    "expenditure": "\u20ac9.60m",
+    "arrival": "12",
+    "income": "\u20ac4.50m",
+    "departures": "13",
+    "balance": "\u20ac-5.10m"
+  },
+  {
+    "season": 2000,
+    "club": "Bradford City",
+    "expenditure": "\u20ac6.61m",
+    "arrival": "16",
+    "income": "\u20ac8.94m",
+    "departures": "22",
+    "balance": "\u20ac2.34m"
+  },
+  {
+    "season": 2000,
+    "club": "Southampton FC",
+    "expenditure": "-",
+    "arrival": "15",
+    "income": "\u20ac145k",
+    "departures": "16",
+    "balance": "\u20ac145k"
+  },
+  {
+    "season": 2001,
+    "club": "Manchester United",
+    "expenditure": "\u20ac85.85m",
+    "arrival": "22",
+    "income": "\u20ac43.60m",
+    "departures": "16",
+    "balance": "\u20ac-42.25m"
+  },
+  {
+    "season": 2001,
+    "club": "Fulham FC",
+    "expenditure": "\u20ac50.60m",
+    "arrival": "13",
+    "income": "\u20ac1.03m",
+    "departures": "14",
+    "balance": "\u20ac-49.58m"
+  },
+  {
+    "season": 2001,
+    "club": "Chelsea FC",
+    "expenditure": "\u20ac49.70m",
+    "arrival": "10",
+    "income": "\u20ac14.32m",
+    "departures": "15",
+    "balance": "\u20ac-35.38m"
+  },
+  {
+    "season": 2001,
+    "club": "Leeds United",
+    "expenditure": "\u20ac46.30m",
+    "arrival": "11",
+    "income": "\u20ac4.58m",
+    "departures": "14",
+    "balance": "\u20ac-41.73m"
+  },
+  {
+    "season": 2001,
+    "club": "Blackburn Rovers",
+    "expenditure": "\u20ac33.01m",
+    "arrival": "22",
+    "income": "\u20ac10.68m",
+    "departures": "25",
+    "balance": "\u20ac-22.34m"
+  },
+  {
+    "season": 2001,
+    "club": "Arsenal FC",
+    "expenditure": "\u20ac32.69m",
+    "arrival": "23",
+    "income": "\u20ac12.00m",
+    "departures": "16",
+    "balance": "\u20ac-20.69m"
+  },
+  {
+    "season": 2001,
+    "club": "Newcastle United",
+    "expenditure": "\u20ac31.59m",
+    "arrival": "19",
+    "income": "\u20ac888k",
+    "departures": "20",
+    "balance": "\u20ac-30.70m"
+  },
+  {
+    "season": 2001,
+    "club": "Liverpool FC",
+    "expenditure": "\u20ac31.56m",
+    "arrival": "8",
+    "income": "\u20ac28.65m",
+    "departures": "10",
+    "balance": "\u20ac-2.91m"
+  },
+  {
+    "season": 2001,
+    "club": "Sunderland AFC",
+    "expenditure": "\u20ac29.76m",
+    "arrival": "17",
+    "income": "\u20ac12.89m",
+    "departures": "15",
+    "balance": "\u20ac-16.87m"
+  },
+  {
+    "season": 2001,
+    "club": "Tottenham Hotspur",
+    "expenditure": "\u20ac28.05m",
+    "arrival": "10",
+    "income": "\u20ac9.75m",
+    "departures": "9",
+    "balance": "\u20ac-18.30m"
+  },
+  {
+    "season": 2001,
+    "club": "Aston Villa",
+    "expenditure": "\u20ac26.10m",
+    "arrival": "15",
+    "income": "\u20ac16.88m",
+    "departures": "16",
+    "balance": "\u20ac-9.23m"
+  },
+  {
+    "season": 2001,
+    "club": "Middlesbrough FC",
+    "expenditure": "\u20ac22.70m",
+    "arrival": "26",
+    "income": "\u20ac5.27m",
+    "departures": "29",
+    "balance": "\u20ac-17.43m"
+  },
+  {
+    "season": 2001,
+    "club": "West Ham United",
+    "expenditure": "\u20ac22.06m",
+    "arrival": "12",
+    "income": "\u20ac18.13m",
+    "departures": "16",
+    "balance": "\u20ac-3.94m"
+  },
+  {
+    "season": 2001,
+    "club": "Ipswich Town",
+    "expenditure": "\u20ac20.23m",
+    "arrival": "22",
+    "income": "\u20ac13.50m",
+    "departures": "15",
+    "balance": "\u20ac-6.73m"
+  },
+  {
+    "season": 2001,
+    "club": "Southampton FC",
+    "expenditure": "\u20ac19.35m",
+    "arrival": "16",
+    "income": "\u20ac14.45m",
+    "departures": "14",
+    "balance": "\u20ac-4.90m"
+  },
+  {
+    "season": 2001,
+    "club": "Leicester City",
+    "expenditure": "\u20ac19.20m",
+    "arrival": "21",
+    "income": "\u20ac3.03m",
+    "departures": "19",
+    "balance": "\u20ac-16.17m"
+  },
+  {
+    "season": 2001,
+    "club": "Charlton Athletic",
+    "expenditure": "\u20ac13.50m",
+    "arrival": "14",
+    "income": "\u20ac1.38m",
+    "departures": "17",
+    "balance": "\u20ac-12.13m"
+  },
+  {
+    "season": 2001,
+    "club": "Everton FC",
+    "expenditure": "\u20ac10.50m",
+    "arrival": "8",
+    "income": "\u20ac11.93m",
+    "departures": "14",
+    "balance": "\u20ac1.43m"
+  },
+  {
+    "season": 2001,
+    "club": "Derby County",
+    "expenditure": "\u20ac4.59m",
+    "arrival": "15",
+    "income": "\u20ac17.50m",
+    "departures": "15",
+    "balance": "\u20ac12.92m"
+  },
+  {
+    "season": 2001,
+    "club": "Bolton Wanderers",
+    "expenditure": "\u20ac3.13m",
+    "arrival": "27",
+    "income": "\u20ac70k",
+    "departures": "23",
+    "balance": "\u20ac-3.06m"
+  },
+  {
+    "season": 2002,
+    "club": "Manchester United",
+    "expenditure": "\u20ac48.53m",
+    "arrival": "15",
+    "income": "\u20ac3.50m",
+    "departures": "15",
+    "balance": "\u20ac-45.03m"
+  },
+  {
+    "season": 2002,
+    "club": "Manchester City",
+    "expenditure": "\u20ac44.45m",
+    "arrival": "16",
+    "income": "\u20ac750k",
+    "departures": "14",
+    "balance": "\u20ac-43.70m"
+  },
+  {
+    "season": 2002,
+    "club": "Newcastle United",
+    "expenditure": "\u20ac34.55m",
+    "arrival": "13",
+    "income": "\u20ac225k",
+    "departures": "14",
+    "balance": "\u20ac-34.33m"
+  },
+  {
+    "season": 2002,
+    "club": "Middlesbrough FC",
+    "expenditure": "\u20ac34.08m",
+    "arrival": "24",
+    "income": "-",
+    "departures": "27",
+    "balance": "\u20ac-34.08m"
+  },
+  {
+    "season": 2002,
+    "club": "Liverpool FC",
+    "expenditure": "\u20ac31.50m",
+    "arrival": "18",
+    "income": "\u20ac11.80m",
+    "departures": "16",
+    "balance": "\u20ac-19.70m"
+  },
+  {
+    "season": 2002,
+    "club": "Sunderland AFC",
+    "expenditure": "\u20ac29.68m",
+    "arrival": "26",
+    "income": "-",
+    "departures": "19",
+    "balance": "\u20ac-29.68m"
+  },
+  {
+    "season": 2002,
+    "club": "West Bromwich Albion",
+    "expenditure": "\u20ac16.95m",
+    "arrival": "10",
+    "income": "-",
+    "departures": "7",
+    "balance": "\u20ac-16.95m"
+  },
+  {
+    "season": 2002,
+    "club": "Birmingham City",
+    "expenditure": "\u20ac15.68m",
+    "arrival": "21",
+    "income": "\u20ac1.15m",
+    "departures": "19",
+    "balance": "\u20ac-14.53m"
+  },
+  {
+    "season": 2002,
+    "club": "Everton FC",
+    "expenditure": "\u20ac13.73m",
+    "arrival": "22",
+    "income": "\u20ac375k",
+    "departures": "17",
+    "balance": "\u20ac-13.35m"
+  },
+  {
+    "season": 2002,
+    "club": "Arsenal FC",
+    "expenditure": "\u20ac12.83m",
+    "arrival": "19",
+    "income": "\u20ac8.22m",
+    "departures": "19",
+    "balance": "\u20ac-4.61m"
+  },
+  {
+    "season": 2002,
+    "club": "Southampton FC",
+    "expenditure": "\u20ac12.00m",
+    "arrival": "16",
+    "income": "-",
+    "departures": "19",
+    "balance": "\u20ac-12.00m"
+  },
+  {
+    "season": 2002,
+    "club": "Tottenham Hotspur",
+    "expenditure": "\u20ac10.50m",
+    "arrival": "23",
+    "income": "\u20ac1.35m",
+    "departures": "23",
+    "balance": "\u20ac-9.15m"
+  },
+  {
+    "season": 2002,
+    "club": "Aston Villa",
+    "expenditure": "\u20ac9.08m",
+    "arrival": "24",
+    "income": "\u20ac6.90m",
+    "departures": "17",
+    "balance": "\u20ac-2.18m"
+  },
+  {
+    "season": 2002,
+    "club": "Blackburn Rovers",
+    "expenditure": "\u20ac7.25m",
+    "arrival": "21",
+    "income": "\u20ac1.80m",
+    "departures": "18",
+    "balance": "\u20ac-5.45m"
+  },
+  {
+    "season": 2002,
+    "club": "Charlton Athletic",
+    "expenditure": "\u20ac6.75m",
+    "arrival": "13",
+    "income": "\u20ac2.65m",
+    "departures": "13",
+    "balance": "\u20ac-4.10m"
+  },
+  {
+    "season": 2002,
+    "club": "Leeds United",
+    "expenditure": "\u20ac4.50m",
+    "arrival": "20",
+    "income": "\u20ac80.12m",
+    "departures": "21",
+    "balance": "\u20ac75.62m"
+  },
+  {
+    "season": 2002,
+    "club": "Fulham FC",
+    "expenditure": "\u20ac3.00m",
+    "arrival": "9",
+    "income": "\u20ac825k",
+    "departures": "12",
+    "balance": "\u20ac-2.18m"
+  },
+  {
+    "season": 2002,
+    "club": "West Ham United",
+    "expenditure": "\u20ac400k",
+    "arrival": "18",
+    "income": "\u20ac75k",
+    "departures": "19",
+    "balance": "\u20ac-325k"
+  },
+  {
+    "season": 2002,
+    "club": "Bolton Wanderers",
+    "expenditure": "-",
+    "arrival": "24",
+    "income": "\u20ac5.29m",
+    "departures": "31",
+    "balance": "\u20ac5.29m"
+  },
+  {
+    "season": 2002,
+    "club": "Chelsea FC",
+    "expenditure": "-",
+    "arrival": "10",
+    "income": "\u20ac2.10m",
+    "departures": "11",
+    "balance": "\u20ac2.10m"
+  },
+  {
+    "season": 2003,
+    "club": "Chelsea FC",
+    "expenditure": "\u20ac170.00m",
+    "arrival": "28",
+    "income": "\u20ac950k",
+    "departures": "22",
+    "balance": "\u20ac-169.05m"
+  },
+  {
+    "season": 2003,
+    "club": "Manchester United",
+    "expenditure": "\u20ac56.53m",
+    "arrival": "27",
+    "income": "\u20ac59.30m",
+    "departures": "28",
+    "balance": "\u20ac2.78m"
+  },
+  {
+    "season": 2003,
+    "club": "Tottenham Hotspur",
+    "expenditure": "\u20ac29.75m",
+    "arrival": "20",
+    "income": "\u20ac1.75m",
+    "departures": "23",
+    "balance": "\u20ac-28.00m"
+  },
+  {
+    "season": 2003,
+    "club": "Arsenal FC",
+    "expenditure": "\u20ac27.42m",
+    "arrival": "24",
+    "income": "\u20ac1.05m",
+    "departures": "22",
+    "balance": "\u20ac-26.37m"
+  },
+  {
+    "season": 2003,
+    "club": "Blackburn Rovers",
+    "expenditure": "\u20ac22.34m",
+    "arrival": "25",
+    "income": "\u20ac34.85m",
+    "departures": "32",
+    "balance": "\u20ac12.51m"
+  },
+  {
+    "season": 2003,
+    "club": "Birmingham City",
+    "expenditure": "\u20ac17.10m",
+    "arrival": "17",
+    "income": "\u20ac1.95m",
+    "departures": "27",
+    "balance": "\u20ac-15.15m"
+  },
+  {
+    "season": 2003,
+    "club": "Liverpool FC",
+    "expenditure": "\u20ac15.65m",
+    "arrival": "22",
+    "income": "-",
+    "departures": "13",
+    "balance": "\u20ac-15.65m"
+  },
+  {
+    "season": 2003,
+    "club": "Manchester City",
+    "expenditure": "\u20ac14.26m",
+    "arrival": "23",
+    "income": "\u20ac6.62m",
+    "departures": "24",
+    "balance": "\u20ac-7.64m"
+  },
+  {
+    "season": 2003,
+    "club": "Portsmouth FC",
+    "expenditure": "\u20ac11.78m",
+    "arrival": "38",
+    "income": "\u20ac200k",
+    "departures": "39",
+    "balance": "\u20ac-11.58m"
+  },
+  {
+    "season": 2003,
+    "club": "Middlesbrough FC",
+    "expenditure": "\u20ac10.20m",
+    "arrival": "30",
+    "income": "\u20ac1.13m",
+    "departures": "31",
+    "balance": "\u20ac-9.08m"
+  },
+  {
+    "season": 2003,
+    "club": "Everton FC",
+    "expenditure": "\u20ac10.07m",
+    "arrival": "18",
+    "income": "\u20ac975k",
+    "departures": "20",
+    "balance": "\u20ac-9.09m"
+  },
+  {
+    "season": 2003,
+    "club": "Wolverhampton Wanderers",
+    "expenditure": "\u20ac9.88m",
+    "arrival": "27",
+    "income": "\u20ac1.15m",
+    "departures": "20",
+    "balance": "\u20ac-8.73m"
+  },
+  {
+    "season": 2003,
+    "club": "Southampton FC",
+    "expenditure": "\u20ac8.98m",
+    "arrival": "21",
+    "income": "\u20ac10.88m",
+    "departures": "20",
+    "balance": "\u20ac1.90m"
+  },
+  {
+    "season": 2003,
+    "club": "Fulham FC",
+    "expenditure": "\u20ac8.48m",
+    "arrival": "33",
+    "income": "\u20ac25.04m",
+    "departures": "28",
+    "balance": "\u20ac16.56m"
+  },
+  {
+    "season": 2003,
+    "club": "Aston Villa",
+    "expenditure": "\u20ac8.38m",
+    "arrival": "20",
+    "income": "\u20ac290k",
+    "departures": "29",
+    "balance": "\u20ac-8.09m"
+  },
+  {
+    "season": 2003,
+    "club": "Charlton Athletic",
+    "expenditure": "\u20ac1.50m",
+    "arrival": "19",
+    "income": "\u20ac15.00m",
+    "departures": "17",
+    "balance": "\u20ac13.50m"
+  },
+  {
+    "season": 2003,
+    "club": "Leicester City",
+    "expenditure": "\u20ac1.14m",
+    "arrival": "29",
+    "income": "-",
+    "departures": "29",
+    "balance": "\u20ac-1.14m"
+  },
+  {
+    "season": 2003,
+    "club": "Bolton Wanderers",
+    "expenditure": "\u20ac750k",
+    "arrival": "29",
+    "income": "\u20ac75k",
+    "departures": "30",
+    "balance": "\u20ac-675k"
+  },
+  {
+    "season": 2003,
+    "club": "Leeds United",
+    "expenditure": "\u20ac100k",
+    "arrival": "28",
+    "income": "\u20ac16.83m",
+    "departures": "32",
+    "balance": "\u20ac16.73m"
+  },
+  {
+    "season": 2003,
+    "club": "Newcastle United",
+    "expenditure": "-",
+    "arrival": "17",
+    "income": "\u20ac5.00m",
+    "departures": "22",
+    "balance": "\u20ac5.00m"
+  },
+  {
+    "season": 2004,
+    "club": "Chelsea FC",
+    "expenditure": "\u20ac166.40m",
+    "arrival": "24",
+    "income": "\u20ac3.30m",
+    "departures": "25",
+    "balance": "\u20ac-163.10m"
+  },
+  {
+    "season": 2004,
+    "club": "Manchester United",
+    "expenditure": "\u20ac61.25m",
+    "arrival": "21",
+    "income": "\u20ac9.57m",
+    "departures": "19",
+    "balance": "\u20ac-51.69m"
+  },
+  {
+    "season": 2004,
+    "club": "Liverpool FC",
+    "expenditure": "\u20ac58.40m",
+    "arrival": "25",
+    "income": "\u20ac24.57m",
+    "departures": "23",
+    "balance": "\u20ac-33.83m"
+  },
+  {
+    "season": 2004,
+    "club": "Tottenham Hotspur",
+    "expenditure": "\u20ac47.13m",
+    "arrival": "38",
+    "income": "\u20ac10.50m",
+    "departures": "34",
+    "balance": "\u20ac-36.63m"
+  },
+  {
+    "season": 2004,
+    "club": "Newcastle United",
+    "expenditure": "\u20ac29.45m",
+    "arrival": "18",
+    "income": "\u20ac22.28m",
+    "departures": "19",
+    "balance": "\u20ac-7.18m"
+  },
+  {
+    "season": 2004,
+    "club": "West Bromwich Albion",
+    "expenditure": "\u20ac15.85m",
+    "arrival": "18",
+    "income": "\u20ac1.95m",
+    "departures": "24",
+    "balance": "\u20ac-13.90m"
+  },
+  {
+    "season": 2004,
+    "club": "Birmingham City",
+    "expenditure": "\u20ac15.77m",
+    "arrival": "28",
+    "income": "\u20ac8.15m",
+    "departures": "23",
+    "balance": "\u20ac-7.62m"
+  },
+  {
+    "season": 2004,
+    "club": "Fulham FC",
+    "expenditure": "\u20ac13.95m",
+    "arrival": "26",
+    "income": "\u20ac5.20m",
+    "departures": "22",
+    "balance": "\u20ac-8.75m"
+  },
+  {
+    "season": 2004,
+    "club": "Charlton Athletic",
+    "expenditure": "\u20ac13.25m",
+    "arrival": "17",
+    "income": "\u20ac1.95m",
+    "departures": "19",
+    "balance": "\u20ac-11.30m"
+  },
+  {
+    "season": 2004,
+    "club": "Southampton FC",
+    "expenditure": "\u20ac12.68m",
+    "arrival": "37",
+    "income": "\u20ac11.50m",
+    "departures": "29",
+    "balance": "\u20ac-1.18m"
+  },
+  {
+    "season": 2004,
+    "club": "Arsenal FC",
+    "expenditure": "\u20ac12.48m",
+    "arrival": "24",
+    "income": "\u20ac3.90m",
+    "departures": "19",
+    "balance": "\u20ac-8.58m"
+  },
+  {
+    "season": 2004,
+    "club": "Everton FC",
+    "expenditure": "\u20ac11.88m",
+    "arrival": "9",
+    "income": "\u20ac45.40m",
+    "departures": "17",
+    "balance": "\u20ac33.53m"
+  },
+  {
+    "season": 2004,
+    "club": "Portsmouth FC",
+    "expenditure": "\u20ac10.85m",
+    "arrival": "29",
+    "income": "\u20ac6.60m",
+    "departures": "36",
+    "balance": "\u20ac-4.25m"
+  },
+  {
+    "season": 2004,
+    "club": "Aston Villa",
+    "expenditure": "\u20ac10.14m",
+    "arrival": "14",
+    "income": "\u20ac3.43m",
+    "departures": "18",
+    "balance": "\u20ac-6.72m"
+  },
+  {
+    "season": 2004,
+    "club": "Norwich City",
+    "expenditure": "\u20ac8.53m",
+    "arrival": "18",
+    "income": "\u20ac450k",
+    "departures": "15",
+    "balance": "\u20ac-8.08m"
+  },
+  {
+    "season": 2004,
+    "club": "Blackburn Rovers",
+    "expenditure": "\u20ac7.88m",
+    "arrival": "21",
+    "income": "\u20ac7.70m",
+    "departures": "21",
+    "balance": "\u20ac-175k"
+  },
+  {
+    "season": 2004,
+    "club": "Middlesbrough FC",
+    "expenditure": "\u20ac6.75m",
+    "arrival": "21",
+    "income": "\u20ac3.45m",
+    "departures": "22",
+    "balance": "\u20ac-3.30m"
+  },
+  {
+    "season": 2004,
+    "club": "Crystal Palace",
+    "expenditure": "\u20ac5.15m",
+    "arrival": "18",
+    "income": "\u20ac100k",
+    "departures": "16",
+    "balance": "\u20ac-5.05m"
+  },
+  {
+    "season": 2004,
+    "club": "Manchester City",
+    "expenditure": "\u20ac1.50m",
+    "arrival": "18",
+    "income": "\u20ac7.94m",
+    "departures": "19",
+    "balance": "\u20ac6.44m"
+  },
+  {
+    "season": 2004,
+    "club": "Bolton Wanderers",
+    "expenditure": "\u20ac1.38m",
+    "arrival": "26",
+    "income": "\u20ac375k",
+    "departures": "26",
+    "balance": "\u20ac-1.00m"
+  },
+  {
+    "season": 2005,
+    "club": "Chelsea FC",
+    "expenditure": "\u20ac91.50m",
+    "arrival": "19",
+    "income": "\u20ac34.60m",
+    "departures": "19",
+    "balance": "\u20ac-56.90m"
+  },
+  {
+    "season": 2005,
+    "club": "Newcastle United",
+    "expenditure": "\u20ac61.75m",
+    "arrival": "17",
+    "income": "\u20ac30.90m",
+    "departures": "16",
+    "balance": "\u20ac-30.85m"
+  },
+  {
+    "season": 2005,
+    "club": "Arsenal FC",
+    "expenditure": "\u20ac46.00m",
+    "arrival": "20",
+    "income": "\u20ac25.00m",
+    "departures": "18",
+    "balance": "\u20ac-21.00m"
+  },
+  {
+    "season": 2005,
+    "club": "Liverpool FC",
+    "expenditure": "\u20ac44.06m",
+    "arrival": "30",
+    "income": "\u20ac19.04m",
+    "departures": "26",
+    "balance": "\u20ac-25.02m"
+  },
+  {
+    "season": 2005,
+    "club": "Tottenham Hotspur",
+    "expenditure": "\u20ac36.51m",
+    "arrival": "28",
+    "income": "\u20ac25.45m",
+    "departures": "27",
+    "balance": "\u20ac-11.06m"
+  },
+  {
+    "season": 2005,
+    "club": "Everton FC",
+    "expenditure": "\u20ac32.53m",
+    "arrival": "16",
+    "income": "\u20ac7.00m",
+    "departures": "14",
+    "balance": "\u20ac-25.53m"
+  },
+  {
+    "season": 2005,
+    "club": "Manchester United",
+    "expenditure": "\u20ac31.80m",
+    "arrival": "25",
+    "income": "\u20ac7.90m",
+    "departures": "27",
+    "balance": "\u20ac-23.90m"
+  },
+  {
+    "season": 2005,
+    "club": "West Ham United",
+    "expenditure": "\u20ac21.59m",
+    "arrival": "33",
+    "income": "\u20ac550k",
+    "departures": "31",
+    "balance": "\u20ac-21.04m"
+  },
+  {
+    "season": 2005,
+    "club": "Portsmouth FC",
+    "expenditure": "\u20ac18.78m",
+    "arrival": "40",
+    "income": "\u20ac12.15m",
+    "departures": "37",
+    "balance": "\u20ac-6.63m"
+  },
+  {
+    "season": 2005,
+    "club": "Aston Villa",
+    "expenditure": "\u20ac16.54m",
+    "arrival": "18",
+    "income": "\u20ac6.40m",
+    "departures": "15",
+    "balance": "\u20ac-10.14m"
+  },
+  {
+    "season": 2005,
+    "club": "Wigan Athletic",
+    "expenditure": "\u20ac15.77m",
+    "arrival": "17",
+    "income": "\u20ac5.63m",
+    "departures": "19",
+    "balance": "\u20ac-10.15m"
+  },
+  {
+    "season": 2005,
+    "club": "West Bromwich Albion",
+    "expenditure": "\u20ac15.30m",
+    "arrival": "16",
+    "income": "\u20ac9.08m",
+    "departures": "18",
+    "balance": "\u20ac-6.23m"
+  },
+  {
+    "season": 2005,
+    "club": "Middlesbrough FC",
+    "expenditure": "\u20ac13.96m",
+    "arrival": "20",
+    "income": "-",
+    "departures": "12",
+    "balance": "\u20ac-13.96m"
+  },
+  {
+    "season": 2005,
+    "club": "Manchester City",
+    "expenditure": "\u20ac12.48m",
+    "arrival": "13",
+    "income": "\u20ac32.50m",
+    "departures": "13",
+    "balance": "\u20ac20.03m"
+  },
+  {
+    "season": 2005,
+    "club": "Blackburn Rovers",
+    "expenditure": "\u20ac9.40m",
+    "arrival": "23",
+    "income": "\u20ac2.70m",
+    "departures": "25",
+    "balance": "\u20ac-6.70m"
+  },
+  {
+    "season": 2005,
+    "club": "Charlton Athletic",
+    "expenditure": "\u20ac9.10m",
+    "arrival": "31",
+    "income": "\u20ac5.71m",
+    "departures": "23",
+    "balance": "\u20ac-3.39m"
+  },
+  {
+    "season": 2005,
+    "club": "Birmingham City",
+    "expenditure": "\u20ac8.10m",
+    "arrival": "32",
+    "income": "\u20ac7.95m",
+    "departures": "27",
+    "balance": "\u20ac-150k"
+  },
+  {
+    "season": 2005,
+    "club": "Fulham FC",
+    "expenditure": "\u20ac6.55m",
+    "arrival": "25",
+    "income": "\u20ac4.63m",
+    "departures": "24",
+    "balance": "\u20ac-1.93m"
+  },
+  {
+    "season": 2005,
+    "club": "Bolton Wanderers",
+    "expenditure": "\u20ac6.20m",
+    "arrival": "14",
+    "income": "-",
+    "departures": "17",
+    "balance": "\u20ac-6.20m"
+  },
+  {
+    "season": 2005,
+    "club": "Sunderland AFC",
+    "expenditure": "\u20ac5.93m",
+    "arrival": "24",
+    "income": "\u20ac1.43m",
+    "departures": "27",
+    "balance": "\u20ac-4.50m"
+  },
+  {
+    "season": 2006,
+    "club": "Chelsea FC",
+    "expenditure": "\u20ac88.98m",
+    "arrival": "20",
+    "income": "\u20ac52.60m",
+    "departures": "17",
+    "balance": "\u20ac-36.38m"
+  },
+  {
+    "season": 2006,
+    "club": "West Ham United",
+    "expenditure": "\u20ac69.85m",
+    "arrival": "22",
+    "income": "\u20ac6.75m",
+    "departures": "23",
+    "balance": "\u20ac-63.10m"
+  },
+  {
+    "season": 2006,
+    "club": "Tottenham Hotspur",
+    "expenditure": "\u20ac61.00m",
+    "arrival": "22",
+    "income": "\u20ac38.65m",
+    "departures": "22",
+    "balance": "\u20ac-22.35m"
+  },
+  {
+    "season": 2006,
+    "club": "Liverpool FC",
+    "expenditure": "\u20ac46.00m",
+    "arrival": "30",
+    "income": "\u20ac24.73m",
+    "departures": "28",
+    "balance": "\u20ac-21.28m"
+  },
+  {
+    "season": 2006,
+    "club": "Newcastle United",
+    "expenditure": "\u20ac31.88m",
+    "arrival": "11",
+    "income": "\u20ac11.18m",
+    "departures": "14",
+    "balance": "\u20ac-20.70m"
+  },
+  {
+    "season": 2006,
+    "club": "Wigan Athletic",
+    "expenditure": "\u20ac29.38m",
+    "arrival": "23",
+    "income": "\u20ac24.33m",
+    "departures": "25",
+    "balance": "\u20ac-5.05m"
+  },
+  {
+    "season": 2006,
+    "club": "Manchester United",
+    "expenditure": "\u20ac27.20m",
+    "arrival": "27",
+    "income": "\u20ac18.00m",
+    "departures": "27",
+    "balance": "\u20ac-9.20m"
+  },
+  {
+    "season": 2006,
+    "club": "Aston Villa",
+    "expenditure": "\u20ac24.70m",
+    "arrival": "18",
+    "income": "\u20ac1.83m",
+    "departures": "16",
+    "balance": "\u20ac-22.88m"
+  },
+  {
+    "season": 2006,
+    "club": "Charlton Athletic",
+    "expenditure": "\u20ac21.65m",
+    "arrival": "33",
+    "income": "\u20ac2.28m",
+    "departures": "36",
+    "balance": "\u20ac-19.38m"
+  },
+  {
+    "season": 2006,
+    "club": "Sheffield United",
+    "expenditure": "\u20ac18.03m",
+    "arrival": "42",
+    "income": "\u20ac3.33m",
+    "departures": "38",
+    "balance": "\u20ac-14.70m"
+  },
+  {
+    "season": 2006,
+    "club": "Blackburn Rovers",
+    "expenditure": "\u20ac17.98m",
+    "arrival": "27",
+    "income": "\u20ac16.91m",
+    "departures": "24",
+    "balance": "\u20ac-1.07m"
+  },
+  {
+    "season": 2006,
+    "club": "Everton FC",
+    "expenditure": "\u20ac17.90m",
+    "arrival": "14",
+    "income": "\u20ac2.50m",
+    "departures": "17",
+    "balance": "\u20ac-15.40m"
+  },
+  {
+    "season": 2006,
+    "club": "Bolton Wanderers",
+    "expenditure": "\u20ac17.00m",
+    "arrival": "21",
+    "income": "\u20ac3.85m",
+    "departures": "16",
+    "balance": "\u20ac-13.15m"
+  },
+  {
+    "season": 2006,
+    "club": "Arsenal FC",
+    "expenditure": "\u20ac15.00m",
+    "arrival": "17",
+    "income": "\u20ac12.93m",
+    "departures": "19",
+    "balance": "\u20ac-2.08m"
+  },
+  {
+    "season": 2006,
+    "club": "Fulham FC",
+    "expenditure": "\u20ac13.80m",
+    "arrival": "20",
+    "income": "\u20ac10.52m",
+    "departures": "25",
+    "balance": "\u20ac-3.29m"
+  },
+  {
+    "season": 2006,
+    "club": "Middlesbrough FC",
+    "expenditure": "\u20ac11.30m",
+    "arrival": "21",
+    "income": "\u20ac4.68m",
+    "departures": "24",
+    "balance": "\u20ac-6.63m"
+  },
+  {
+    "season": 2006,
+    "club": "Watford FC",
+    "expenditure": "\u20ac10.48m",
+    "arrival": "32",
+    "income": "\u20ac13.50m",
+    "departures": "23",
+    "balance": "\u20ac3.03m"
+  },
+  {
+    "season": 2006,
+    "club": "Reading FC",
+    "expenditure": "\u20ac9.23m",
+    "arrival": "27",
+    "income": "-",
+    "departures": "17",
+    "balance": "\u20ac-9.23m"
+  },
+  {
+    "season": 2006,
+    "club": "Portsmouth FC",
+    "expenditure": "\u20ac9.10m",
+    "arrival": "29",
+    "income": "\u20ac1.25m",
+    "departures": "32",
+    "balance": "\u20ac-7.85m"
+  },
+  {
+    "season": 2006,
+    "club": "Manchester City",
+    "expenditure": "\u20ac6.50m",
+    "arrival": "20",
+    "income": "\u20ac4.20m",
+    "departures": "23",
+    "balance": "\u20ac-2.30m"
+  },
+  {
+    "season": 2007,
+    "club": "Manchester United",
+    "expenditure": "\u20ac106.50m",
+    "arrival": "26",
+    "income": "\u20ac46.60m",
+    "departures": "22",
+    "balance": "\u20ac-59.90m"
+  },
+  {
+    "season": 2007,
+    "club": "Tottenham Hotspur",
+    "expenditure": "\u20ac94.15m",
+    "arrival": "27",
+    "income": "\u20ac22.55m",
+    "departures": "21",
+    "balance": "\u20ac-71.60m"
+  },
+  {
+    "season": 2007,
+    "club": "Liverpool FC",
+    "expenditure": "\u20ac90.70m",
+    "arrival": "30",
+    "income": "\u20ac46.75m",
+    "departures": "28",
+    "balance": "\u20ac-43.95m"
+  },
+  {
+    "season": 2007,
+    "club": "Manchester City",
+    "expenditure": "\u20ac77.95m",
+    "arrival": "33",
+    "income": "\u20ac10.56m",
+    "departures": "26",
+    "balance": "\u20ac-67.39m"
+  },
+  {
+    "season": 2007,
+    "club": "Sunderland AFC",
+    "expenditure": "\u20ac64.32m",
+    "arrival": "31",
+    "income": "\u20ac3.20m",
+    "departures": "21",
+    "balance": "\u20ac-61.12m"
+  },
+  {
+    "season": 2007,
+    "club": "Chelsea FC",
+    "expenditure": "\u20ac59.00m",
+    "arrival": "24",
+    "income": "\u20ac43.65m",
+    "departures": "16",
+    "balance": "\u20ac-15.35m"
+  },
+  {
+    "season": 2007,
+    "club": "Portsmouth FC",
+    "expenditure": "\u20ac58.64m",
+    "arrival": "28",
+    "income": "\u20ac23.38m",
+    "departures": "25",
+    "balance": "\u20ac-35.27m"
+  },
+  {
+    "season": 2007,
+    "club": "Middlesbrough FC",
+    "expenditure": "\u20ac50.60m",
+    "arrival": "21",
+    "income": "\u20ac30.23m",
+    "departures": "23",
+    "balance": "\u20ac-20.38m"
+  },
+  {
+    "season": 2007,
+    "club": "Fulham FC",
+    "expenditure": "\u20ac50.43m",
+    "arrival": "39",
+    "income": "\u20ac19.50m",
+    "departures": "27",
+    "balance": "\u20ac-30.93m"
+  },
+  {
+    "season": 2007,
+    "club": "West Ham United",
+    "expenditure": "\u20ac47.15m",
+    "arrival": "19",
+    "income": "\u20ac42.00m",
+    "departures": "17",
+    "balance": "\u20ac-5.15m"
+  },
+  {
+    "season": 2007,
+    "club": "Newcastle United",
+    "expenditure": "\u20ac37.85m",
+    "arrival": "20",
+    "income": "\u20ac31.70m",
+    "departures": "17",
+    "balance": "\u20ac-6.15m"
+  },
+  {
+    "season": 2007,
+    "club": "Everton FC",
+    "expenditure": "\u20ac37.55m",
+    "arrival": "17",
+    "income": "\u20ac14.80m",
+    "departures": "18",
+    "balance": "\u20ac-22.75m"
+  },
+  {
+    "season": 2007,
+    "club": "Arsenal FC",
+    "expenditure": "\u20ac30.95m",
+    "arrival": "19",
+    "income": "\u20ac56.73m",
+    "departures": "18",
+    "balance": "\u20ac25.78m"
+  },
+  {
+    "season": 2007,
+    "club": "Birmingham City",
+    "expenditure": "\u20ac29.30m",
+    "arrival": "31",
+    "income": "\u20ac8.48m",
+    "departures": "30",
+    "balance": "\u20ac-20.83m"
+  },
+  {
+    "season": 2007,
+    "club": "Aston Villa",
+    "expenditure": "\u20ac24.90m",
+    "arrival": "12",
+    "income": "\u20ac17.90m",
+    "departures": "17",
+    "balance": "\u20ac-7.00m"
+  },
+  {
+    "season": 2007,
+    "club": "Derby County",
+    "expenditure": "\u20ac22.68m",
+    "arrival": "30",
+    "income": "\u20ac5.24m",
+    "departures": "29",
+    "balance": "\u20ac-17.44m"
+  },
+  {
+    "season": 2007,
+    "club": "Bolton Wanderers",
+    "expenditure": "\u20ac22.35m",
+    "arrival": "25",
+    "income": "\u20ac21.97m",
+    "departures": "24",
+    "balance": "\u20ac-384k"
+  },
+  {
+    "season": 2007,
+    "club": "Wigan Athletic",
+    "expenditure": "\u20ac17.90m",
+    "arrival": "26",
+    "income": "\u20ac17.83m",
+    "departures": "21",
+    "balance": "\u20ac-75k"
+  },
+  {
+    "season": 2007,
+    "club": "Reading FC",
+    "expenditure": "\u20ac12.10m",
+    "arrival": "40",
+    "income": "\u20ac5.70m",
+    "departures": "35",
+    "balance": "\u20ac-6.40m"
+  },
+  {
+    "season": 2007,
+    "club": "Blackburn Rovers",
+    "expenditure": "\u20ac6.20m",
+    "arrival": "19",
+    "income": "\u20ac3.98m",
+    "departures": "18",
+    "balance": "\u20ac-2.23m"
+  },
+  {
+    "season": 2008,
+    "club": "Manchester City",
+    "expenditure": "\u20ac157.35m",
+    "arrival": "26",
+    "income": "\u20ac26.50m",
+    "departures": "18",
+    "balance": "\u20ac-130.85m"
+  },
+  {
+    "season": 2008,
+    "club": "Tottenham Hotspur",
+    "expenditure": "\u20ac143.95m",
+    "arrival": "38",
+    "income": "\u20ac88.05m",
+    "departures": "36",
+    "balance": "\u20ac-55.90m"
+  },
+  {
+    "season": 2008,
+    "club": "Liverpool FC",
+    "expenditure": "\u20ac71.45m",
+    "arrival": "33",
+    "income": "\u20ac46.45m",
+    "departures": "29",
+    "balance": "\u20ac-25.00m"
+  },
+  {
+    "season": 2008,
+    "club": "Aston Villa",
+    "expenditure": "\u20ac55.90m",
+    "arrival": "19",
+    "income": "\u20ac7.52m",
+    "departures": "15",
+    "balance": "\u20ac-48.38m"
+  },
+  {
+    "season": 2008,
+    "club": "Manchester United",
+    "expenditure": "\u20ac45.25m",
+    "arrival": "17",
+    "income": "\u20ac7.45m",
+    "departures": "17",
+    "balance": "\u20ac-37.80m"
+  },
+  {
+    "season": 2008,
+    "club": "Arsenal FC",
+    "expenditure": "\u20ac40.15m",
+    "arrival": "18",
+    "income": "\u20ac25.80m",
+    "departures": "11",
+    "balance": "\u20ac-14.35m"
+  },
+  {
+    "season": 2008,
+    "club": "Newcastle United",
+    "expenditure": "\u20ac35.48m",
+    "arrival": "23",
+    "income": "\u20ac41.40m",
+    "departures": "16",
+    "balance": "\u20ac5.93m"
+  },
+  {
+    "season": 2008,
+    "club": "Stoke City",
+    "expenditure": "\u20ac33.95m",
+    "arrival": "24",
+    "income": "\u20ac765k",
+    "departures": "19",
+    "balance": "\u20ac-33.19m"
+  },
+  {
+    "season": 2008,
+    "club": "Sunderland AFC",
+    "expenditure": "\u20ac33.11m",
+    "arrival": "34",
+    "income": "\u20ac11.15m",
+    "departures": "35",
+    "balance": "\u20ac-21.96m"
+  },
+  {
+    "season": 2008,
+    "club": "Chelsea FC",
+    "expenditure": "\u20ac30.50m",
+    "arrival": "18",
+    "income": "\u20ac44.55m",
+    "departures": "18",
+    "balance": "\u20ac14.05m"
+  },
+  {
+    "season": 2008,
+    "club": "Portsmouth FC",
+    "expenditure": "\u20ac28.20m",
+    "arrival": "30",
+    "income": "\u20ac54.15m",
+    "departures": "26",
+    "balance": "\u20ac25.95m"
+  },
+  {
+    "season": 2008,
+    "club": "Fulham FC",
+    "expenditure": "\u20ac26.85m",
+    "arrival": "31",
+    "income": "\u20ac16.33m",
+    "departures": "41",
+    "balance": "\u20ac-10.53m"
+  },
+  {
+    "season": 2008,
+    "club": "Everton FC",
+    "expenditure": "\u20ac25.08m",
+    "arrival": "15",
+    "income": "\u20ac13.30m",
+    "departures": "11",
+    "balance": "\u20ac-11.78m"
+  },
+  {
+    "season": 2008,
+    "club": "West Bromwich Albion",
+    "expenditure": "\u20ac24.32m",
+    "arrival": "22",
+    "income": "\u20ac10.25m",
+    "departures": "24",
+    "balance": "\u20ac-14.07m"
+  },
+  {
+    "season": 2008,
+    "club": "Wigan Athletic",
+    "expenditure": "\u20ac24.10m",
+    "arrival": "24",
+    "income": "\u20ac24.50m",
+    "departures": "28",
+    "balance": "\u20ac400k"
+  },
+  {
+    "season": 2008,
+    "club": "Bolton Wanderers",
+    "expenditure": "\u20ac23.70m",
+    "arrival": "15",
+    "income": "\u20ac10.88m",
+    "departures": "19",
+    "balance": "\u20ac-12.83m"
+  },
+  {
+    "season": 2008,
+    "club": "Hull City",
+    "expenditure": "\u20ac17.95m",
+    "arrival": "26",
+    "income": "-",
+    "departures": "18",
+    "balance": "\u20ac-17.95m"
+  },
+  {
+    "season": 2008,
+    "club": "West Ham United",
+    "expenditure": "\u20ac16.00m",
+    "arrival": "28",
+    "income": "\u20ac68.83m",
+    "departures": "30",
+    "balance": "\u20ac52.83m"
+  },
+  {
+    "season": 2008,
+    "club": "Middlesbrough FC",
+    "expenditure": "\u20ac12.80m",
+    "arrival": "18",
+    "income": "\u20ac8.72m",
+    "departures": "19",
+    "balance": "\u20ac-4.08m"
+  },
+  {
+    "season": 2008,
+    "club": "Blackburn Rovers",
+    "expenditure": "\u20ac11.68m",
+    "arrival": "26",
+    "income": "\u20ac26.50m",
+    "departures": "28",
+    "balance": "\u20ac14.82m"
+  },
+  {
+    "season": 2009,
+    "club": "Manchester City",
+    "expenditure": "\u20ac147.30m",
+    "arrival": "29",
+    "income": "\u20ac29.20m",
+    "departures": "29",
+    "balance": "\u20ac-118.10m"
+  },
+  {
+    "season": 2009,
+    "club": "Aston Villa",
+    "expenditure": "\u20ac46.90m",
+    "arrival": "21",
+    "income": "\u20ac22.10m",
+    "departures": "16",
+    "balance": "\u20ac-24.80m"
+  },
+  {
+    "season": 2009,
+    "club": "Sunderland AFC",
+    "expenditure": "\u20ac46.10m",
+    "arrival": "27",
+    "income": "\u20ac21.28m",
+    "departures": "29",
+    "balance": "\u20ac-24.83m"
+  },
+  {
+    "season": 2009,
+    "club": "Liverpool FC",
+    "expenditure": "\u20ac43.50m",
+    "arrival": "25",
+    "income": "\u20ac48.55m",
+    "departures": "26",
+    "balance": "\u20ac5.05m"
+  },
+  {
+    "season": 2009,
+    "club": "Tottenham Hotspur",
+    "expenditure": "\u20ac40.30m",
+    "arrival": "35",
+    "income": "\u20ac31.70m",
+    "departures": "32",
+    "balance": "\u20ac-8.60m"
+  },
+  {
+    "season": 2009,
+    "club": "Chelsea FC",
+    "expenditure": "\u20ac30.00m",
+    "arrival": "18",
+    "income": "\u20ac3.80m",
+    "departures": "12",
+    "balance": "\u20ac-26.20m"
+  },
+  {
+    "season": 2009,
+    "club": "Manchester United",
+    "expenditure": "\u20ac27.30m",
+    "arrival": "18",
+    "income": "\u20ac104.47m",
+    "departures": "17",
+    "balance": "\u20ac77.17m"
+  },
+  {
+    "season": 2009,
+    "club": "Stoke City",
+    "expenditure": "\u20ac26.05m",
+    "arrival": "25",
+    "income": "\u20ac6.50m",
+    "departures": "23",
+    "balance": "\u20ac-19.55m"
+  },
+  {
+    "season": 2009,
+    "club": "Everton FC",
+    "expenditure": "\u20ac23.30m",
+    "arrival": "15",
+    "income": "\u20ac28.34m",
+    "departures": "15",
+    "balance": "\u20ac5.04m"
+  },
+  {
+    "season": 2009,
+    "club": "West Ham United",
+    "expenditure": "\u20ac21.65m",
+    "arrival": "23",
+    "income": "\u20ac41.30m",
+    "departures": "26",
+    "balance": "\u20ac19.65m"
+  },
+  {
+    "season": 2009,
+    "club": "Birmingham City",
+    "expenditure": "\u20ac20.05m",
+    "arrival": "28",
+    "income": "\u20ac400k",
+    "departures": "28",
+    "balance": "\u20ac-19.65m"
+  },
+  {
+    "season": 2009,
+    "club": "Wolverhampton Wanderers",
+    "expenditure": "\u20ac19.45m",
+    "arrival": "32",
+    "income": "\u20ac870k",
+    "departures": "28",
+    "balance": "\u20ac-18.58m"
+  },
+  {
+    "season": 2009,
+    "club": "Wigan Athletic",
+    "expenditure": "\u20ac18.44m",
+    "arrival": "21",
+    "income": "\u20ac25.98m",
+    "departures": "20",
+    "balance": "\u20ac7.55m"
+  },
+  {
+    "season": 2009,
+    "club": "Hull City",
+    "expenditure": "\u20ac14.85m",
+    "arrival": "24",
+    "income": "\u20ac16.20m",
+    "departures": "27",
+    "balance": "\u20ac1.35m"
+  },
+  {
+    "season": 2009,
+    "club": "Burnley FC",
+    "expenditure": "\u20ac13.54m",
+    "arrival": "33",
+    "income": "\u20ac90k",
+    "departures": "20",
+    "balance": "\u20ac-13.45m"
+  },
+  {
+    "season": 2009,
+    "club": "Blackburn Rovers",
+    "expenditure": "\u20ac13.28m",
+    "arrival": "39",
+    "income": "\u20ac36.65m",
+    "departures": "35",
+    "balance": "\u20ac23.37m"
+  },
+  {
+    "season": 2009,
+    "club": "Arsenal FC",
+    "expenditure": "\u20ac12.00m",
+    "arrival": "17",
+    "income": "\u20ac47.70m",
+    "departures": "13",
+    "balance": "\u20ac35.70m"
+  },
+  {
+    "season": 2009,
+    "club": "Bolton Wanderers",
+    "expenditure": "\u20ac12.00m",
+    "arrival": "25",
+    "income": "\u20ac2.00m",
+    "departures": "17",
+    "balance": "\u20ac-10.00m"
+  },
+  {
+    "season": 2009,
+    "club": "Portsmouth FC",
+    "expenditure": "\u20ac10.56m",
+    "arrival": "35",
+    "income": "\u20ac52.05m",
+    "departures": "40",
+    "balance": "\u20ac41.49m"
+  },
+  {
+    "season": 2009,
+    "club": "Fulham FC",
+    "expenditure": "\u20ac7.11m",
+    "arrival": "28",
+    "income": "-",
+    "departures": "26",
+    "balance": "\u20ac-7.11m"
+  },
+  {
+    "season": 2010,
+    "club": "Manchester City",
+    "expenditure": "\u20ac183.61m",
+    "arrival": "36",
+    "income": "\u20ac40.15m",
+    "departures": "26",
+    "balance": "\u20ac-143.46m"
+  },
+  {
+    "season": 2010,
+    "club": "Chelsea FC",
+    "expenditure": "\u20ac121.50m",
+    "arrival": "22",
+    "income": "\u20ac16.50m",
+    "departures": "21",
+    "balance": "\u20ac-105.00m"
+  },
+  {
+    "season": 2010,
+    "club": "Liverpool FC",
+    "expenditure": "\u20ac97.73m",
+    "arrival": "25",
+    "income": "\u20ac101.50m",
+    "departures": "24",
+    "balance": "\u20ac3.78m"
+  },
+  {
+    "season": 2010,
+    "club": "Aston Villa",
+    "expenditure": "\u20ac37.40m",
+    "arrival": "21",
+    "income": "\u20ac28.40m",
+    "departures": "21",
+    "balance": "\u20ac-9.00m"
+  },
+  {
+    "season": 2010,
+    "club": "Manchester United",
+    "expenditure": "\u20ac29.30m",
+    "arrival": "18",
+    "income": "\u20ac16.97m",
+    "departures": "18",
+    "balance": "\u20ac-12.34m"
+  },
+  {
+    "season": 2010,
+    "club": "Sunderland AFC",
+    "expenditure": "\u20ac29.10m",
+    "arrival": "31",
+    "income": "\u20ac41.78m",
+    "departures": "32",
+    "balance": "\u20ac12.68m"
+  },
+  {
+    "season": 2010,
+    "club": "Tottenham Hotspur",
+    "expenditure": "\u20ac26.60m",
+    "arrival": "44",
+    "income": "\u20ac2.94m",
+    "departures": "34",
+    "balance": "\u20ac-23.67m"
+  },
+  {
+    "season": 2010,
+    "club": "Birmingham City",
+    "expenditure": "\u20ac25.60m",
+    "arrival": "25",
+    "income": "\u20ac175k",
+    "departures": "23",
+    "balance": "\u20ac-25.43m"
+  },
+  {
+    "season": 2010,
+    "club": "Arsenal FC",
+    "expenditure": "\u20ac23.00m",
+    "arrival": "23",
+    "income": "\u20ac8.10m",
+    "departures": "22",
+    "balance": "\u20ac-14.90m"
+  },
+  {
+    "season": 2010,
+    "club": "Stoke City",
+    "expenditure": "\u20ac21.10m",
+    "arrival": "26",
+    "income": "\u20ac6.78m",
+    "departures": "23",
+    "balance": "\u20ac-14.33m"
+  },
+  {
+    "season": 2010,
+    "club": "Wolverhampton Wanderers",
+    "expenditure": "\u20ac20.22m",
+    "arrival": "29",
+    "income": "\u20ac6.44m",
+    "departures": "27",
+    "balance": "\u20ac-13.78m"
+  },
+  {
+    "season": 2010,
+    "club": "West Ham United",
+    "expenditure": "\u20ac18.03m",
+    "arrival": "18",
+    "income": "\u20ac4.95m",
+    "departures": "20",
+    "balance": "\u20ac-13.08m"
+  },
+  {
+    "season": 2010,
+    "club": "Newcastle United",
+    "expenditure": "\u20ac13.98m",
+    "arrival": "18",
+    "income": "\u20ac41.75m",
+    "departures": "16",
+    "balance": "\u20ac27.77m"
+  },
+  {
+    "season": 2010,
+    "club": "West Bromwich Albion",
+    "expenditure": "\u20ac13.83m",
+    "arrival": "30",
+    "income": "\u20ac850k",
+    "departures": "26",
+    "balance": "\u20ac-12.98m"
+  },
+  {
+    "season": 2010,
+    "club": "Wigan Athletic",
+    "expenditure": "\u20ac11.40m",
+    "arrival": "25",
+    "income": "\u20ac3.40m",
+    "departures": "21",
+    "balance": "\u20ac-8.00m"
+  },
+  {
+    "season": 2010,
+    "club": "Fulham FC",
+    "expenditure": "\u20ac11.05m",
+    "arrival": "16",
+    "income": "\u20ac12.81m",
+    "departures": "23",
+    "balance": "\u20ac1.76m"
+  },
+  {
+    "season": 2010,
+    "club": "Blackpool FC",
+    "expenditure": "\u20ac5.73m",
+    "arrival": "28",
+    "income": "\u20ac700k",
+    "departures": "24",
+    "balance": "\u20ac-5.03m"
+  },
+  {
+    "season": 2010,
+    "club": "Bolton Wanderers",
+    "expenditure": "\u20ac5.40m",
+    "arrival": "18",
+    "income": "\u20ac1.40m",
+    "departures": "20",
+    "balance": "\u20ac-4.00m"
+  },
+  {
+    "season": 2010,
+    "club": "Blackburn Rovers",
+    "expenditure": "\u20ac5.05m",
+    "arrival": "30",
+    "income": "\u20ac275k",
+    "departures": "30",
+    "balance": "\u20ac-4.78m"
+  },
+  {
+    "season": 2010,
+    "club": "Everton FC",
+    "expenditure": "\u20ac1.70m",
+    "arrival": "14",
+    "income": "\u20ac6.60m",
+    "departures": "14",
+    "balance": "\u20ac4.90m"
+  },
+  {
+    "season": 2011,
+    "club": "Chelsea FC",
+    "expenditure": "\u20ac96.45m",
+    "arrival": "26",
+    "income": "\u20ac31.56m",
+    "departures": "22",
+    "balance": "\u20ac-64.89m"
+  },
+  {
+    "season": 2011,
+    "club": "Manchester City",
+    "expenditure": "\u20ac91.05m",
+    "arrival": "34",
+    "income": "\u20ac31.20m",
+    "departures": "36",
+    "balance": "\u20ac-59.85m"
+  },
+  {
+    "season": 2011,
+    "club": "Arsenal FC",
+    "expenditure": "\u20ac65.48m",
+    "arrival": "37",
+    "income": "\u20ac78.29m",
+    "departures": "26",
+    "balance": "\u20ac12.82m"
+  },
+  {
+    "season": 2011,
+    "club": "Liverpool FC",
+    "expenditure": "\u20ac65.33m",
+    "arrival": "24",
+    "income": "\u20ac22.00m",
+    "departures": "18",
+    "balance": "\u20ac-43.33m"
+  },
+  {
+    "season": 2011,
+    "club": "Manchester United",
+    "expenditure": "\u20ac62.30m",
+    "arrival": "17",
+    "income": "\u20ac12.90m",
+    "departures": "18",
+    "balance": "\u20ac-49.41m"
+  },
+  {
+    "season": 2011,
+    "club": "Sunderland AFC",
+    "expenditure": "\u20ac27.92m",
+    "arrival": "37",
+    "income": "\u20ac26.33m",
+    "departures": "32",
+    "balance": "\u20ac-1.60m"
+  },
+  {
+    "season": 2011,
+    "club": "Newcastle United",
+    "expenditure": "\u20ac27.00m",
+    "arrival": "29",
+    "income": "\u20ac16.04m",
+    "departures": "26",
+    "balance": "\u20ac-10.96m"
+  },
+  {
+    "season": 2011,
+    "club": "Queens Park Rangers",
+    "expenditure": "\u20ac26.23m",
+    "arrival": "46",
+    "income": "\u20ac2.80m",
+    "departures": "43",
+    "balance": "\u20ac-23.43m"
+  },
+  {
+    "season": 2011,
+    "club": "Stoke City",
+    "expenditure": "\u20ac24.80m",
+    "arrival": "26",
+    "income": "\u20ac1.99m",
+    "departures": "26",
+    "balance": "\u20ac-22.82m"
+  },
+  {
+    "season": 2011,
+    "club": "Blackburn Rovers",
+    "expenditure": "\u20ac20.55m",
+    "arrival": "26",
+    "income": "\u20ac40.30m",
+    "departures": "28",
+    "balance": "\u20ac19.75m"
+  },
+  {
+    "season": 2011,
+    "club": "Aston Villa",
+    "expenditure": "\u20ac20.34m",
+    "arrival": "21",
+    "income": "\u20ac43.75m",
+    "departures": "25",
+    "balance": "\u20ac23.41m"
+  },
+  {
+    "season": 2011,
+    "club": "Fulham FC",
+    "expenditure": "\u20ac18.13m",
+    "arrival": "22",
+    "income": "\u20ac7.67m",
+    "departures": "17",
+    "balance": "\u20ac-10.46m"
+  },
+  {
+    "season": 2011,
+    "club": "Bolton Wanderers",
+    "expenditure": "\u20ac15.60m",
+    "arrival": "24",
+    "income": "\u20ac16.33m",
+    "departures": "22",
+    "balance": "\u20ac730k"
+  },
+  {
+    "season": 2011,
+    "club": "Norwich City",
+    "expenditure": "\u20ac15.25m",
+    "arrival": "19",
+    "income": "\u20ac500k",
+    "departures": "18",
+    "balance": "\u20ac-14.75m"
+  },
+  {
+    "season": 2011,
+    "club": "Swansea City",
+    "expenditure": "\u20ac12.85m",
+    "arrival": "23",
+    "income": "\u20ac455k",
+    "departures": "22",
+    "balance": "\u20ac-12.40m"
+  },
+  {
+    "season": 2011,
+    "club": "Wigan Athletic",
+    "expenditure": "\u20ac12.38m",
+    "arrival": "24",
+    "income": "\u20ac11.29m",
+    "departures": "15",
+    "balance": "\u20ac-1.09m"
+  },
+  {
+    "season": 2011,
+    "club": "Wolverhampton Wanderers",
+    "expenditure": "\u20ac12.05m",
+    "arrival": "30",
+    "income": "\u20ac2.60m",
+    "departures": "32",
+    "balance": "\u20ac-9.45m"
+  },
+  {
+    "season": 2011,
+    "club": "West Bromwich Albion",
+    "expenditure": "\u20ac9.14m",
+    "arrival": "26",
+    "income": "\u20ac11.12m",
+    "departures": "26",
+    "balance": "\u20ac1.98m"
+  },
+  {
+    "season": 2011,
+    "club": "Tottenham Hotspur",
+    "expenditure": "\u20ac9.00m",
+    "arrival": "41",
+    "income": "\u20ac43.25m",
+    "departures": "36",
+    "balance": "\u20ac34.25m"
+  },
+  {
+    "season": 2011,
+    "club": "Everton FC",
+    "expenditure": "\u20ac7.20m",
+    "arrival": "20",
+    "income": "\u20ac26.80m",
+    "departures": "17",
+    "balance": "\u20ac19.60m"
+  },
+  {
+    "season": 2012,
+    "club": "Chelsea FC",
+    "expenditure": "\u20ac109.70m",
+    "arrival": "38",
+    "income": "\u20ac25.45m",
+    "departures": "28",
+    "balance": "\u20ac-84.25m"
+  },
+  {
+    "season": 2012,
+    "club": "Manchester United",
+    "expenditure": "\u20ac76.45m",
+    "arrival": "20",
+    "income": "\u20ac9.65m",
+    "departures": "15",
+    "balance": "\u20ac-66.80m"
+  },
+  {
+    "season": 2012,
+    "club": "Tottenham Hotspur",
+    "expenditure": "\u20ac73.25m",
+    "arrival": "35",
+    "income": "\u20ac72.78m",
+    "departures": "34",
+    "balance": "\u20ac-470k"
+  },
+  {
+    "season": 2012,
+    "club": "Liverpool FC",
+    "expenditure": "\u20ac70.60m",
+    "arrival": "20",
+    "income": "\u20ac10.45m",
+    "departures": "18",
+    "balance": "\u20ac-60.15m"
+  },
+  {
+    "season": 2012,
+    "club": "Manchester City",
+    "expenditure": "\u20ac61.95m",
+    "arrival": "26",
+    "income": "\u20ac44.30m",
+    "departures": "26",
+    "balance": "\u20ac-17.65m"
+  },
+  {
+    "season": 2012,
+    "club": "Arsenal FC",
+    "expenditure": "\u20ac56.00m",
+    "arrival": "25",
+    "income": "\u20ac65.85m",
+    "departures": "19",
+    "balance": "\u20ac9.85m"
+  },
+  {
+    "season": 2012,
+    "club": "Queens Park Rangers",
+    "expenditure": "\u20ac50.35m",
+    "arrival": "46",
+    "income": "\u20ac4.51m",
+    "departures": "46",
+    "balance": "\u20ac-45.84m"
+  },
+  {
+    "season": 2012,
+    "club": "Southampton FC",
+    "expenditure": "\u20ac41.50m",
+    "arrival": "31",
+    "income": "-",
+    "departures": "25",
+    "balance": "\u20ac-41.50m"
+  },
+  {
+    "season": 2012,
+    "club": "Sunderland AFC",
+    "expenditure": "\u20ac38.30m",
+    "arrival": "27",
+    "income": "\u20ac14.83m",
+    "departures": "31",
+    "balance": "\u20ac-23.48m"
+  },
+  {
+    "season": 2012,
+    "club": "Newcastle United",
+    "expenditure": "\u20ac31.97m",
+    "arrival": "21",
+    "income": "\u20ac14.80m",
+    "departures": "19",
+    "balance": "\u20ac-17.17m"
+  },
+  {
+    "season": 2012,
+    "club": "Aston Villa",
+    "expenditure": "\u20ac27.83m",
+    "arrival": "20",
+    "income": "\u20ac3.20m",
+    "departures": "13",
+    "balance": "\u20ac-24.63m"
+  },
+  {
+    "season": 2012,
+    "club": "West Ham United",
+    "expenditure": "\u20ac23.90m",
+    "arrival": "26",
+    "income": "\u20ac5.05m",
+    "departures": "29",
+    "balance": "\u20ac-18.85m"
+  },
+  {
+    "season": 2012,
+    "club": "Stoke City",
+    "expenditure": "\u20ac23.68m",
+    "arrival": "24",
+    "income": "\u20ac640k",
+    "departures": "24",
+    "balance": "\u20ac-23.04m"
+  },
+  {
+    "season": 2012,
+    "club": "Everton FC",
+    "expenditure": "\u20ac21.65m",
+    "arrival": "13",
+    "income": "\u20ac18.75m",
+    "departures": "13",
+    "balance": "\u20ac-2.90m"
+  },
+  {
+    "season": 2012,
+    "club": "Swansea City",
+    "expenditure": "\u20ac20.47m",
+    "arrival": "20",
+    "income": "\u20ac32.60m",
+    "departures": "23",
+    "balance": "\u20ac12.13m"
+  },
+  {
+    "season": 2012,
+    "club": "Norwich City",
+    "expenditure": "\u20ac11.08m",
+    "arrival": "29",
+    "income": "\u20ac380k",
+    "departures": "26",
+    "balance": "\u20ac-10.70m"
+  },
+  {
+    "season": 2012,
+    "club": "Reading FC",
+    "expenditure": "\u20ac10.82m",
+    "arrival": "33",
+    "income": "\u20ac900k",
+    "departures": "27",
+    "balance": "\u20ac-9.92m"
+  },
+  {
+    "season": 2012,
+    "club": "Wigan Athletic",
+    "expenditure": "\u20ac10.54m",
+    "arrival": "22",
+    "income": "\u20ac13.25m",
+    "departures": "25",
+    "balance": "\u20ac2.72m"
+  },
+  {
+    "season": 2012,
+    "club": "Fulham FC",
+    "expenditure": "\u20ac10.00m",
+    "arrival": "27",
+    "income": "\u20ac31.42m",
+    "departures": "32",
+    "balance": "\u20ac21.42m"
+  },
+  {
+    "season": 2012,
+    "club": "West Bromwich Albion",
+    "expenditure": "\u20ac5.00m",
+    "arrival": "17",
+    "income": "\u20ac3.73m",
+    "departures": "18",
+    "balance": "\u20ac-1.28m"
+  },
+  {
+    "season": 2013,
+    "club": "Chelsea FC",
+    "expenditure": "\u20ac130.35m",
+    "arrival": "52",
+    "income": "\u20ac77.93m",
+    "departures": "36",
+    "balance": "\u20ac-52.42m"
+  },
+  {
+    "season": 2013,
+    "club": "Tottenham Hotspur",
+    "expenditure": "\u20ac122.55m",
+    "arrival": "33",
+    "income": "\u20ac138.40m",
+    "departures": "28",
+    "balance": "\u20ac15.85m"
+  },
+  {
+    "season": 2013,
+    "club": "Manchester City",
+    "expenditure": "\u20ac115.50m",
+    "arrival": "16",
+    "income": "\u20ac11.30m",
+    "departures": "18",
+    "balance": "\u20ac-104.20m"
+  },
+  {
+    "season": 2013,
+    "club": "Manchester United",
+    "expenditure": "\u20ac77.13m",
+    "arrival": "23",
+    "income": "\u20ac1.80m",
+    "departures": "20",
+    "balance": "\u20ac-75.33m"
+  },
+  {
+    "season": 2013,
+    "club": "Liverpool FC",
+    "expenditure": "\u20ac58.10m",
+    "arrival": "23",
+    "income": "\u20ac32.50m",
+    "departures": "24",
+    "balance": "\u20ac-25.60m"
+  },
+  {
+    "season": 2013,
+    "club": "Arsenal FC",
+    "expenditure": "\u20ac49.25m",
+    "arrival": "25",
+    "income": "\u20ac12.15m",
+    "departures": "25",
+    "balance": "\u20ac-37.10m"
+  },
+  {
+    "season": 2013,
+    "club": "Cardiff City",
+    "expenditure": "\u20ac45.82m",
+    "arrival": "35",
+    "income": "\u20ac3.74m",
+    "departures": "29",
+    "balance": "\u20ac-42.08m"
+  },
+  {
+    "season": 2013,
+    "club": "Southampton FC",
+    "expenditure": "\u20ac39.60m",
+    "arrival": "18",
+    "income": "\u20ac4.20m",
+    "departures": "23",
+    "balance": "\u20ac-35.40m"
+  },
+  {
+    "season": 2013,
+    "club": "Sunderland AFC",
+    "expenditure": "\u20ac33.91m",
+    "arrival": "40",
+    "income": "\u20ac22.38m",
+    "departures": "35",
+    "balance": "\u20ac-11.53m"
+  },
+  {
+    "season": 2013,
+    "club": "Crystal Palace",
+    "expenditure": "\u20ac33.00m",
+    "arrival": "44",
+    "income": "-",
+    "departures": "32",
+    "balance": "\u20ac-33.00m"
+  },
+  {
+    "season": 2013,
+    "club": "Everton FC",
+    "expenditure": "\u20ac31.80m",
+    "arrival": "19",
+    "income": "\u20ac46.10m",
+    "departures": "21",
+    "balance": "\u20ac14.30m"
+  },
+  {
+    "season": 2013,
+    "club": "Hull City",
+    "expenditure": "\u20ac31.10m",
+    "arrival": "32",
+    "income": "\u20ac880k",
+    "departures": "32",
+    "balance": "\u20ac-30.22m"
+  },
+  {
+    "season": 2013,
+    "club": "Norwich City",
+    "expenditure": "\u20ac30.05m",
+    "arrival": "21",
+    "income": "\u20ac4.84m",
+    "departures": "24",
+    "balance": "\u20ac-25.22m"
+  },
+  {
+    "season": 2013,
+    "club": "Fulham FC",
+    "expenditure": "\u20ac29.30m",
+    "arrival": "34",
+    "income": "\u20ac4.15m",
+    "departures": "30",
+    "balance": "\u20ac-25.15m"
+  },
+  {
+    "season": 2013,
+    "club": "Swansea City",
+    "expenditure": "\u20ac26.61m",
+    "arrival": "24",
+    "income": "-",
+    "departures": "21",
+    "balance": "\u20ac-26.61m"
+  },
+  {
+    "season": 2013,
+    "club": "West Ham United",
+    "expenditure": "\u20ac24.00m",
+    "arrival": "25",
+    "income": "\u20ac530k",
+    "departures": "22",
+    "balance": "\u20ac-23.47m"
+  },
+  {
+    "season": 2013,
+    "club": "Aston Villa",
+    "expenditure": "\u20ac19.84m",
+    "arrival": "33",
+    "income": "\u20ac8.10m",
+    "departures": "29",
+    "balance": "\u20ac-11.74m"
+  },
+  {
+    "season": 2013,
+    "club": "West Bromwich Albion",
+    "expenditure": "\u20ac15.70m",
+    "arrival": "17",
+    "income": "\u20ac11.40m",
+    "departures": "20",
+    "balance": "\u20ac-4.30m"
+  },
+  {
+    "season": 2013,
+    "club": "Stoke City",
+    "expenditure": "\u20ac7.00m",
+    "arrival": "21",
+    "income": "-",
+    "departures": "20",
+    "balance": "\u20ac-7.00m"
+  },
+  {
+    "season": 2013,
+    "club": "Newcastle United",
+    "expenditure": "\u20ac3.80m",
+    "arrival": "17",
+    "income": "\u20ac25.87m",
+    "departures": "18",
+    "balance": "\u20ac22.07m"
+  },
+  {
+    "season": 2014,
+    "club": "Manchester United",
+    "expenditure": "\u20ac195.35m",
+    "arrival": "30",
+    "income": "\u20ac46.70m",
+    "departures": "28",
+    "balance": "\u20ac-148.65m"
+  },
+  {
+    "season": 2014,
+    "club": "Liverpool FC",
+    "expenditure": "\u20ac151.43m",
+    "arrival": "30",
+    "income": "\u20ac99.27m",
+    "departures": "21",
+    "balance": "\u20ac-52.16m"
+  },
+  {
+    "season": 2014,
+    "club": "Chelsea FC",
+    "expenditure": "\u20ac137.70m",
+    "arrival": "57",
+    "income": "\u20ac142.81m",
+    "departures": "48",
+    "balance": "\u20ac5.11m"
+  },
+  {
+    "season": 2014,
+    "club": "Arsenal FC",
+    "expenditure": "\u20ac118.98m",
+    "arrival": "21",
+    "income": "\u20ac27.80m",
+    "departures": "22",
+    "balance": "\u20ac-91.18m"
+  },
+  {
+    "season": 2014,
+    "club": "Manchester City",
+    "expenditure": "\u20ac102.80m",
+    "arrival": "22",
+    "income": "\u20ac30.30m",
+    "departures": "17",
+    "balance": "\u20ac-72.50m"
+  },
+  {
+    "season": 2014,
+    "club": "Southampton FC",
+    "expenditure": "\u20ac96.00m",
+    "arrival": "26",
+    "income": "\u20ac123.83m",
+    "departures": "24",
+    "balance": "\u20ac27.83m"
+  },
+  {
+    "season": 2014,
+    "club": "Tottenham Hotspur",
+    "expenditure": "\u20ac48.48m",
+    "arrival": "23",
+    "income": "\u20ac44.15m",
+    "departures": "24",
+    "balance": "\u20ac-4.33m"
+  },
+  {
+    "season": 2014,
+    "club": "Hull City",
+    "expenditure": "\u20ac48.22m",
+    "arrival": "31",
+    "income": "\u20ac18.70m",
+    "departures": "28",
+    "balance": "\u20ac-29.52m"
+  },
+  {
+    "season": 2014,
+    "club": "Newcastle United",
+    "expenditure": "\u20ac45.02m",
+    "arrival": "28",
+    "income": "\u20ac23.87m",
+    "departures": "26",
+    "balance": "\u20ac-21.15m"
+  },
+  {
+    "season": 2014,
+    "club": "Queens Park Rangers",
+    "expenditure": "\u20ac43.54m",
+    "arrival": "35",
+    "income": "\u20ac26.04m",
+    "departures": "39",
+    "balance": "\u20ac-17.50m"
+  },
+  {
+    "season": 2014,
+    "club": "Swansea City",
+    "expenditure": "\u20ac41.53m",
+    "arrival": "25",
+    "income": "\u20ac61.90m",
+    "departures": "28",
+    "balance": "\u20ac20.37m"
+  },
+  {
+    "season": 2014,
+    "club": "Everton FC",
+    "expenditure": "\u20ac40.16m",
+    "arrival": "17",
+    "income": "\u20ac1.90m",
+    "departures": "16",
+    "balance": "\u20ac-38.26m"
+  },
+  {
+    "season": 2014,
+    "club": "West Ham United",
+    "expenditure": "\u20ac35.15m",
+    "arrival": "26",
+    "income": "\u20ac4.40m",
+    "departures": "27",
+    "balance": "\u20ac-30.75m"
+  },
+  {
+    "season": 2014,
+    "club": "Crystal Palace",
+    "expenditure": "\u20ac31.22m",
+    "arrival": "42",
+    "income": "\u20ac2.87m",
+    "departures": "39",
+    "balance": "\u20ac-28.35m"
+  },
+  {
+    "season": 2014,
+    "club": "West Bromwich Albion",
+    "expenditure": "\u20ac24.88m",
+    "arrival": "18",
+    "income": "\u20ac2.30m",
+    "departures": "20",
+    "balance": "\u20ac-22.58m"
+  },
+  {
+    "season": 2014,
+    "club": "Leicester City",
+    "expenditure": "\u20ac22.86m",
+    "arrival": "30",
+    "income": "-",
+    "departures": "23",
+    "balance": "\u20ac-22.86m"
+  },
+  {
+    "season": 2014,
+    "club": "Sunderland AFC",
+    "expenditure": "\u20ac22.52m",
+    "arrival": "24",
+    "income": "\u20ac7.25m",
+    "departures": "33",
+    "balance": "\u20ac-15.27m"
+  },
+  {
+    "season": 2014,
+    "club": "Aston Villa",
+    "expenditure": "\u20ac13.45m",
+    "arrival": "33",
+    "income": "\u20ac1.32m",
+    "departures": "33",
+    "balance": "\u20ac-12.14m"
+  },
+  {
+    "season": 2014,
+    "club": "Burnley FC",
+    "expenditure": "\u20ac12.62m",
+    "arrival": "24",
+    "income": "-",
+    "departures": "23",
+    "balance": "\u20ac-12.62m"
+  },
+  {
+    "season": 2014,
+    "club": "Stoke City",
+    "expenditure": "\u20ac1.80m",
+    "arrival": "18",
+    "income": "\u20ac3.80m",
+    "departures": "20",
+    "balance": "\u20ac2.00m"
+  },
+  {
+    "season": 2015,
+    "club": "Manchester City",
+    "expenditure": "\u20ac208.47m",
+    "arrival": "29",
+    "income": "\u20ac67.44m",
+    "departures": "25",
+    "balance": "\u20ac-141.03m"
+  },
+  {
+    "season": 2015,
+    "club": "Manchester United",
+    "expenditure": "\u20ac156.00m",
+    "arrival": "22",
+    "income": "\u20ac100.67m",
+    "departures": "20",
+    "balance": "\u20ac-55.33m"
+  },
+  {
+    "season": 2015,
+    "club": "Liverpool FC",
+    "expenditure": "\u20ac126.50m",
+    "arrival": "30",
+    "income": "\u20ac90.55m",
+    "departures": "24",
+    "balance": "\u20ac-35.95m"
+  },
+  {
+    "season": 2015,
+    "club": "Newcastle United",
+    "expenditure": "\u20ac107.91m",
+    "arrival": "28",
+    "income": "\u20ac5.63m",
+    "departures": "24",
+    "balance": "\u20ac-102.28m"
+  },
+  {
+    "season": 2015,
+    "club": "Chelsea FC",
+    "expenditure": "\u20ac96.50m",
+    "arrival": "54",
+    "income": "\u20ac87.49m",
+    "departures": "39",
+    "balance": "\u20ac-9.01m"
+  },
+  {
+    "season": 2015,
+    "club": "Watford FC",
+    "expenditure": "\u20ac82.80m",
+    "arrival": "39",
+    "income": "\u20ac9.75m",
+    "departures": "31",
+    "balance": "\u20ac-73.05m"
+  },
+  {
+    "season": 2015,
+    "club": "Tottenham Hotspur",
+    "expenditure": "\u20ac71.00m",
+    "arrival": "12",
+    "income": "\u20ac87.25m",
+    "departures": "21",
+    "balance": "\u20ac16.25m"
+  },
+  {
+    "season": 2015,
+    "club": "Aston Villa",
+    "expenditure": "\u20ac66.55m",
+    "arrival": "31",
+    "income": "\u20ac64.70m",
+    "departures": "32",
+    "balance": "\u20ac-1.85m"
+  },
+  {
+    "season": 2015,
+    "club": "Sunderland AFC",
+    "expenditure": "\u20ac66.05m",
+    "arrival": "34",
+    "income": "\u20ac11.00m",
+    "departures": "28",
+    "balance": "\u20ac-55.05m"
+  },
+  {
+    "season": 2015,
+    "club": "Southampton FC",
+    "expenditure": "\u20ac60.10m",
+    "arrival": "16",
+    "income": "\u20ac52.70m",
+    "departures": "17",
+    "balance": "\u20ac-7.40m"
+  },
+  {
+    "season": 2015,
+    "club": "AFC Bournemouth",
+    "expenditure": "\u20ac55.11m",
+    "arrival": "37",
+    "income": "\u20ac650k",
+    "departures": "35",
+    "balance": "\u20ac-54.46m"
+  },
+  {
+    "season": 2015,
+    "club": "Stoke City",
+    "expenditure": "\u20ac53.65m",
+    "arrival": "14",
+    "income": "\u20ac23.20m",
+    "departures": "14",
+    "balance": "\u20ac-30.45m"
+  },
+  {
+    "season": 2015,
+    "club": "West Ham United",
+    "expenditure": "\u20ac52.70m",
+    "arrival": "27",
+    "income": "\u20ac18.52m",
+    "departures": "29",
+    "balance": "\u20ac-34.19m"
+  },
+  {
+    "season": 2015,
+    "club": "Norwich City",
+    "expenditure": "\u20ac50.50m",
+    "arrival": "35",
+    "income": "\u20ac21.49m",
+    "departures": "31",
+    "balance": "\u20ac-29.01m"
+  },
+  {
+    "season": 2015,
+    "club": "Leicester City",
+    "expenditure": "\u20ac49.90m",
+    "arrival": "27",
+    "income": "\u20ac9.45m",
+    "departures": "32",
+    "balance": "\u20ac-40.45m"
+  },
+  {
+    "season": 2015,
+    "club": "Everton FC",
+    "expenditure": "\u20ac48.90m",
+    "arrival": "19",
+    "income": "\u20ac11.00m",
+    "departures": "17",
+    "balance": "\u20ac-37.90m"
+  },
+  {
+    "season": 2015,
+    "club": "West Bromwich Albion",
+    "expenditure": "\u20ac42.90m",
+    "arrival": "12",
+    "income": "\u20ac12.92m",
+    "departures": "13",
+    "balance": "\u20ac-29.98m"
+  },
+  {
+    "season": 2015,
+    "club": "Crystal Palace",
+    "expenditure": "\u20ac28.80m",
+    "arrival": "19",
+    "income": "\u20ac5.40m",
+    "departures": "24",
+    "balance": "\u20ac-23.40m"
+  },
+  {
+    "season": 2015,
+    "club": "Arsenal FC",
+    "expenditure": "\u20ac26.50m",
+    "arrival": "16",
+    "income": "\u20ac2.50m",
+    "departures": "12",
+    "balance": "\u20ac-24.00m"
+  },
+  {
+    "season": 2015,
+    "club": "Swansea City",
+    "expenditure": "\u20ac21.81m",
+    "arrival": "23",
+    "income": "\u20ac16.81m",
+    "departures": "24",
+    "balance": "\u20ac-5.01m"
+  },
+  {
+    "season": 2016,
+    "club": "Manchester City",
+    "expenditure": "\u20ac215.25m",
+    "arrival": "42",
+    "income": "\u20ac35.35m",
+    "departures": "25",
+    "balance": "\u20ac-179.90m"
+  },
+  {
+    "season": 2016,
+    "club": "Manchester United",
+    "expenditure": "\u20ac185.00m",
+    "arrival": "11",
+    "income": "\u20ac47.25m",
+    "departures": "14",
+    "balance": "\u20ac-137.75m"
+  },
+  {
+    "season": 2016,
+    "club": "Chelsea FC",
+    "expenditure": "\u20ac132.80m",
+    "arrival": "41",
+    "income": "\u20ac108.90m",
+    "departures": "30",
+    "balance": "\u20ac-23.90m"
+  },
+  {
+    "season": 2016,
+    "club": "Arsenal FC",
+    "expenditure": "\u20ac113.00m",
+    "arrival": "13",
+    "income": "\u20ac10.35m",
+    "departures": "12",
+    "balance": "\u20ac-102.65m"
+  },
+  {
+    "season": 2016,
+    "club": "Crystal Palace",
+    "expenditure": "\u20ac101.20m",
+    "arrival": "23",
+    "income": "\u20ac50.20m",
+    "departures": "24",
+    "balance": "\u20ac-51.00m"
+  },
+  {
+    "season": 2016,
+    "club": "Leicester City",
+    "expenditure": "\u20ac92.10m",
+    "arrival": "17",
+    "income": "\u20ac66.05m",
+    "departures": "19",
+    "balance": "\u20ac-26.05m"
+  },
+  {
+    "season": 2016,
+    "club": "Everton FC",
+    "expenditure": "\u20ac86.00m",
+    "arrival": "21",
+    "income": "\u20ac60.80m",
+    "departures": "19",
+    "balance": "\u20ac-25.20m"
+  },
+  {
+    "season": 2016,
+    "club": "Tottenham Hotspur",
+    "expenditure": "\u20ac83.50m",
+    "arrival": "11",
+    "income": "\u20ac52.30m",
+    "departures": "9",
+    "balance": "\u20ac-31.20m"
+  },
+  {
+    "season": 2016,
+    "club": "West Ham United",
+    "expenditure": "\u20ac83.50m",
+    "arrival": "22",
+    "income": "\u20ac41.00m",
+    "departures": "17",
+    "balance": "\u20ac-42.50m"
+  },
+  {
+    "season": 2016,
+    "club": "Liverpool FC",
+    "expenditure": "\u20ac79.90m",
+    "arrival": "23",
+    "income": "\u20ac85.38m",
+    "departures": "19",
+    "balance": "\u20ac5.48m"
+  },
+  {
+    "season": 2016,
+    "club": "Watford FC",
+    "expenditure": "\u20ac70.45m",
+    "arrival": "38",
+    "income": "\u20ac58.10m",
+    "departures": "35",
+    "balance": "\u20ac-12.35m"
+  },
+  {
+    "season": 2016,
+    "club": "Southampton FC",
+    "expenditure": "\u20ac68.90m",
+    "arrival": "13",
+    "income": "\u20ac85.05m",
+    "departures": "10",
+    "balance": "\u20ac16.15m"
+  },
+  {
+    "season": 2016,
+    "club": "Swansea City",
+    "expenditure": "\u20ac58.10m",
+    "arrival": "23",
+    "income": "\u20ac49.30m",
+    "departures": "17",
+    "balance": "\u20ac-8.80m"
+  },
+  {
+    "season": 2016,
+    "club": "Middlesbrough FC",
+    "expenditure": "\u20ac47.95m",
+    "arrival": "21",
+    "income": "\u20ac13.50m",
+    "departures": "20",
+    "balance": "\u20ac-34.45m"
+  },
+  {
+    "season": 2016,
+    "club": "Burnley FC",
+    "expenditure": "\u20ac45.60m",
+    "arrival": "28",
+    "income": "\u20ac1.20m",
+    "departures": "26",
+    "balance": "\u20ac-44.40m"
+  },
+  {
+    "season": 2016,
+    "club": "Sunderland AFC",
+    "expenditure": "\u20ac41.90m",
+    "arrival": "27",
+    "income": "\u20ac23.77m",
+    "departures": "24",
+    "balance": "\u20ac-18.13m"
+  },
+  {
+    "season": 2016,
+    "club": "AFC Bournemouth",
+    "expenditure": "\u20ac40.69m",
+    "arrival": "21",
+    "income": "\u20ac23.69m",
+    "departures": "29",
+    "balance": "\u20ac-17.00m"
+  },
+  {
+    "season": 2016,
+    "club": "Hull City",
+    "expenditure": "\u20ac40.00m",
+    "arrival": "25",
+    "income": "\u20ac28.90m",
+    "departures": "20",
+    "balance": "\u20ac-11.10m"
+  },
+  {
+    "season": 2016,
+    "club": "Stoke City",
+    "expenditure": "\u20ac38.78m",
+    "arrival": "17",
+    "income": "\u20ac3.80m",
+    "departures": "14",
+    "balance": "\u20ac-34.98m"
+  },
+  {
+    "season": 2016,
+    "club": "West Bromwich Albion",
+    "expenditure": "\u20ac37.90m",
+    "arrival": "14",
+    "income": "\u20ac26.98m",
+    "departures": "14",
+    "balance": "\u20ac-10.93m"
+  },
+  {
+    "season": 2017,
+    "club": "Manchester City",
+    "expenditure": "\u20ac317.50m",
+    "arrival": "39",
+    "income": "\u20ac91.35m",
+    "departures": "32",
+    "balance": "\u20ac-226.15m"
+  },
+  {
+    "season": 2017,
+    "club": "Chelsea FC",
+    "expenditure": "\u20ac260.50m",
+    "arrival": "47",
+    "income": "\u20ac194.60m",
+    "departures": "31",
+    "balance": "\u20ac-65.90m"
+  },
+  {
+    "season": 2017,
+    "club": "Everton FC",
+    "expenditure": "\u20ac203.20m",
+    "arrival": "27",
+    "income": "\u20ac126.38m",
+    "departures": "20",
+    "balance": "\u20ac-76.82m"
+  },
+  {
+    "season": 2017,
+    "club": "Manchester United",
+    "expenditure": "\u20ac198.40m",
+    "arrival": "14",
+    "income": "\u20ac45.50m",
+    "departures": "11",
+    "balance": "\u20ac-152.90m"
+  },
+  {
+    "season": 2017,
+    "club": "Liverpool FC",
+    "expenditure": "\u20ac173.65m",
+    "arrival": "16",
+    "income": "\u20ac184.50m",
+    "departures": "15",
+    "balance": "\u20ac10.85m"
+  },
+  {
+    "season": 2017,
+    "club": "Arsenal FC",
+    "expenditure": "\u20ac152.85m",
+    "arrival": "15",
+    "income": "\u20ac162.00m",
+    "departures": "16",
+    "balance": "\u20ac9.15m"
+  },
+  {
+    "season": 2017,
+    "club": "Tottenham Hotspur",
+    "expenditure": "\u20ac123.50m",
+    "arrival": "15",
+    "income": "\u20ac103.80m",
+    "departures": "11",
+    "balance": "\u20ac-19.70m"
+  },
+  {
+    "season": 2017,
+    "club": "Leicester City",
+    "expenditure": "\u20ac83.85m",
+    "arrival": "17",
+    "income": "\u20ac50.10m",
+    "departures": "14",
+    "balance": "\u20ac-33.75m"
+  },
+  {
+    "season": 2017,
+    "club": "Watford FC",
+    "expenditure": "\u20ac73.40m",
+    "arrival": "43",
+    "income": "\u20ac18.74m",
+    "departures": "34",
+    "balance": "\u20ac-54.66m"
+  },
+  {
+    "season": 2017,
+    "club": "Swansea City",
+    "expenditure": "\u20ac73.39m",
+    "arrival": "25",
+    "income": "\u20ac81.10m",
+    "departures": "25",
+    "balance": "\u20ac7.72m"
+  },
+  {
+    "season": 2017,
+    "club": "Brighton & Hove Albion",
+    "expenditure": "\u20ac66.50m",
+    "arrival": "26",
+    "income": "\u20ac400k",
+    "departures": "22",
+    "balance": "\u20ac-66.10m"
+  },
+  {
+    "season": 2017,
+    "club": "Southampton FC",
+    "expenditure": "\u20ac61.25m",
+    "arrival": "14",
+    "income": "\u20ac98.35m",
+    "departures": "14",
+    "balance": "\u20ac37.10m"
+  },
+  {
+    "season": 2017,
+    "club": "Stoke City",
+    "expenditure": "\u20ac57.70m",
+    "arrival": "21",
+    "income": "\u20ac35.14m",
+    "departures": "19",
+    "balance": "\u20ac-22.56m"
+  },
+  {
+    "season": 2017,
+    "club": "West Ham United",
+    "expenditure": "\u20ac56.80m",
+    "arrival": "16",
+    "income": "\u20ac69.02m",
+    "departures": "26",
+    "balance": "\u20ac12.22m"
+  },
+  {
+    "season": 2017,
+    "club": "Huddersfield Town",
+    "expenditure": "\u20ac56.75m",
+    "arrival": "24",
+    "income": "\u20ac6.46m",
+    "departures": "20",
+    "balance": "\u20ac-50.30m"
+  },
+  {
+    "season": 2017,
+    "club": "West Bromwich Albion",
+    "expenditure": "\u20ac53.50m",
+    "arrival": "18",
+    "income": "\u20ac2.05m",
+    "departures": "13",
+    "balance": "\u20ac-51.45m"
+  },
+  {
+    "season": 2017,
+    "club": "Crystal Palace",
+    "expenditure": "\u20ac48.95m",
+    "arrival": "15",
+    "income": "\u20ac3.00m",
+    "departures": "19",
+    "balance": "\u20ac-45.95m"
+  },
+  {
+    "season": 2017,
+    "club": "Newcastle United",
+    "expenditure": "\u20ac46.50m",
+    "arrival": "31",
+    "income": "\u20ac21.22m",
+    "departures": "31",
+    "balance": "\u20ac-25.28m"
+  },
+  {
+    "season": 2017,
+    "club": "Burnley FC",
+    "expenditure": "\u20ac35.74m",
+    "arrival": "18",
+    "income": "\u20ac50.00m",
+    "departures": "21",
+    "balance": "\u20ac14.26m"
+  },
+  {
+    "season": 2017,
+    "club": "AFC Bournemouth",
+    "expenditure": "\u20ac34.30m",
+    "arrival": "17",
+    "income": "-",
+    "departures": "14",
+    "balance": "\u20ac-34.30m"
+  },
+  {
+    "season": 2018,
+    "club": "Chelsea FC",
+    "expenditure": "\u20ac208.80m",
+    "arrival": "41",
+    "income": "\u20ac83.25m",
+    "departures": "33",
+    "balance": "\u20ac-125.55m"
+  },
+  {
+    "season": 2018,
+    "club": "Liverpool FC",
+    "expenditure": "\u20ac182.20m",
+    "arrival": "22",
+    "income": "\u20ac41.32m",
+    "departures": "20",
+    "balance": "\u20ac-140.88m"
+  },
+  {
+    "season": 2018,
+    "club": "Fulham FC",
+    "expenditure": "\u20ac116.50m",
+    "arrival": "20",
+    "income": "\u20ac5.35m",
+    "departures": "15",
+    "balance": "\u20ac-111.15m"
+  },
+  {
+    "season": 2018,
+    "club": "Leicester City",
+    "expenditure": "\u20ac114.60m",
+    "arrival": "20",
+    "income": "\u20ac95.80m",
+    "departures": "19",
+    "balance": "\u20ac-18.80m"
+  },
+  {
+    "season": 2018,
+    "club": "Wolverhampton Wanderers",
+    "expenditure": "\u20ac112.75m",
+    "arrival": "42",
+    "income": "\u20ac23.30m",
+    "departures": "48",
+    "balance": "\u20ac-89.45m"
+  },
+  {
+    "season": 2018,
+    "club": "West Ham United",
+    "expenditure": "\u20ac100.90m",
+    "arrival": "20",
+    "income": "\u20ac13.77m",
+    "departures": "13",
+    "balance": "\u20ac-87.14m"
+  },
+  {
+    "season": 2018,
+    "club": "Everton FC",
+    "expenditure": "\u20ac99.80m",
+    "arrival": "27",
+    "income": "\u20ac28.65m",
+    "departures": "24",
+    "balance": "\u20ac-71.15m"
+  },
+  {
+    "season": 2018,
+    "club": "AFC Bournemouth",
+    "expenditure": "\u20ac91.60m",
+    "arrival": "14",
+    "income": "\u20ac20.20m",
+    "departures": "16",
+    "balance": "\u20ac-71.40m"
+  },
+  {
+    "season": 2018,
+    "club": "Brighton & Hove Albion",
+    "expenditure": "\u20ac87.12m",
+    "arrival": "36",
+    "income": "\u20ac13.62m",
+    "departures": "29",
+    "balance": "\u20ac-73.50m"
+  },
+  {
+    "season": 2018,
+    "club": "Manchester United",
+    "expenditure": "\u20ac82.70m",
+    "arrival": "10",
+    "income": "\u20ac30.55m",
+    "departures": "10",
+    "balance": "\u20ac-52.15m"
+  },
+  {
+    "season": 2018,
+    "club": "Arsenal FC",
+    "expenditure": "\u20ac80.15m",
+    "arrival": "19",
+    "income": "\u20ac9.10m",
+    "departures": "13",
+    "balance": "\u20ac-71.05m"
+  },
+  {
+    "season": 2018,
+    "club": "Manchester City",
+    "expenditure": "\u20ac78.59m",
+    "arrival": "29",
+    "income": "\u20ac57.60m",
+    "departures": "23",
+    "balance": "\u20ac-20.99m"
+  },
+  {
+    "season": 2018,
+    "club": "Southampton FC",
+    "expenditure": "\u20ac62.25m",
+    "arrival": "21",
+    "income": "\u20ac26.10m",
+    "departures": "19",
+    "balance": "\u20ac-36.15m"
+  },
+  {
+    "season": 2018,
+    "club": "Newcastle United",
+    "expenditure": "\u20ac59.75m",
+    "arrival": "23",
+    "income": "\u20ac51.05m",
+    "departures": "24",
+    "balance": "\u20ac-8.70m"
+  },
+  {
+    "season": 2018,
+    "club": "Huddersfield Town",
+    "expenditure": "\u20ac50.70m",
+    "arrival": "17",
+    "income": "\u20ac12.33m",
+    "departures": "19",
+    "balance": "\u20ac-38.37m"
+  },
+  {
+    "season": 2018,
+    "club": "Cardiff City",
+    "expenditure": "\u20ac40.20m",
+    "arrival": "18",
+    "income": "-",
+    "departures": "20",
+    "balance": "\u20ac-40.20m"
+  },
+  {
+    "season": 2018,
+    "club": "Burnley FC",
+    "expenditure": "\u20ac33.00m",
+    "arrival": "10",
+    "income": "\u20ac8.00m",
+    "departures": "11",
+    "balance": "\u20ac-25.00m"
+  },
+  {
+    "season": 2018,
+    "club": "Watford FC",
+    "expenditure": "\u20ac30.10m",
+    "arrival": "37",
+    "income": "\u20ac51.84m",
+    "departures": "27",
+    "balance": "\u20ac21.74m"
+  },
+  {
+    "season": 2018,
+    "club": "Crystal Palace",
+    "expenditure": "\u20ac11.85m",
+    "arrival": "13",
+    "income": "\u20ac350k",
+    "departures": "18",
+    "balance": "\u20ac-11.50m"
+  },
+  {
+    "season": 2018,
+    "club": "Tottenham Hotspur",
+    "expenditure": "-",
+    "arrival": "5",
+    "income": "\u20ac5.35m",
+    "departures": "4",
+    "balance": "\u20ac5.35m"
+  },
+  {
+    "season": 2019,
+    "club": "Manchester United",
+    "expenditure": "\u20ac234.80m",
+    "arrival": "15",
+    "income": "\u20ac81.18m",
+    "departures": "12",
+    "balance": "\u20ac-153.62m"
+  },
+  {
+    "season": 2019,
+    "club": "Arsenal FC",
+    "expenditure": "\u20ac160.80m",
+    "arrival": "20",
+    "income": "\u20ac53.65m",
+    "departures": "21",
+    "balance": "\u20ac-107.15m"
+  },
+  {
+    "season": 2019,
+    "club": "Manchester City",
+    "expenditure": "\u20ac159.52m",
+    "arrival": "37",
+    "income": "\u20ac71.00m",
+    "departures": "26",
+    "balance": "\u20ac-88.52m"
+  },
+  {
+    "season": 2019,
+    "club": "Aston Villa",
+    "expenditure": "\u20ac159.50m",
+    "arrival": "28",
+    "income": "\u20ac3.00m",
+    "departures": "26",
+    "balance": "\u20ac-156.50m"
+  },
+  {
+    "season": 2019,
+    "club": "Tottenham Hotspur",
+    "expenditure": "\u20ac148.50m",
+    "arrival": "16",
+    "income": "\u20ac64.50m",
+    "departures": "15",
+    "balance": "\u20ac-84.00m"
+  },
+  {
+    "season": 2019,
+    "club": "Everton FC",
+    "expenditure": "\u20ac121.00m",
+    "arrival": "27",
+    "income": "\u20ac87.80m",
+    "departures": "23",
+    "balance": "\u20ac-33.20m"
+  },
+  {
+    "season": 2019,
+    "club": "West Ham United",
+    "expenditure": "\u20ac119.80m",
+    "arrival": "15",
+    "income": "\u20ac55.48m",
+    "departures": "18",
+    "balance": "\u20ac-64.32m"
+  },
+  {
+    "season": 2019,
+    "club": "Wolverhampton Wanderers",
+    "expenditure": "\u20ac116.70m",
+    "arrival": "30",
+    "income": "\u20ac24.10m",
+    "departures": "24",
+    "balance": "\u20ac-92.60m"
+  },
+  {
+    "season": 2019,
+    "club": "Leicester City",
+    "expenditure": "\u20ac104.30m",
+    "arrival": "19",
+    "income": "\u20ac88.50m",
+    "departures": "14",
+    "balance": "\u20ac-15.80m"
+  },
+  {
+    "season": 2019,
+    "club": "Newcastle United",
+    "expenditure": "\u20ac72.90m",
+    "arrival": "16",
+    "income": "\u20ac35.64m",
+    "departures": "15",
+    "balance": "\u20ac-37.26m"
+  },
+  {
+    "season": 2019,
+    "club": "Sheffield United",
+    "expenditure": "\u20ac70.50m",
+    "arrival": "26",
+    "income": "\u20ac350k",
+    "departures": "22",
+    "balance": "\u20ac-70.15m"
+  },
+  {
+    "season": 2019,
+    "club": "Brighton & Hove Albion",
+    "expenditure": "\u20ac61.74m",
+    "arrival": "36",
+    "income": "\u20ac8.50m",
+    "departures": "30",
+    "balance": "\u20ac-53.24m"
+  },
+  {
+    "season": 2019,
+    "club": "Southampton FC",
+    "expenditure": "\u20ac61.50m",
+    "arrival": "21",
+    "income": "\u20ac27.30m",
+    "departures": "19",
+    "balance": "\u20ac-34.20m"
+  },
+  {
+    "season": 2019,
+    "club": "Watford FC",
+    "expenditure": "\u20ac56.00m",
+    "arrival": "32",
+    "income": "\u20ac25.40m",
+    "departures": "21",
+    "balance": "\u20ac-30.60m"
+  },
+  {
+    "season": 2019,
+    "club": "AFC Bournemouth",
+    "expenditure": "\u20ac54.91m",
+    "arrival": "17",
+    "income": "\u20ac34.63m",
+    "departures": "14",
+    "balance": "\u20ac-20.29m"
+  },
+  {
+    "season": 2019,
+    "club": "Chelsea FC",
+    "expenditure": "\u20ac45.00m",
+    "arrival": "35",
+    "income": "\u20ac157.27m",
+    "departures": "28",
+    "balance": "\u20ac112.27m"
+  },
+  {
+    "season": 2019,
+    "club": "Burnley FC",
+    "expenditure": "\u20ac23.85m",
+    "arrival": "9",
+    "income": "\u20ac13.55m",
+    "departures": "10",
+    "balance": "\u20ac-10.30m"
+  },
+  {
+    "season": 2019,
+    "club": "Liverpool FC",
+    "expenditure": "\u20ac10.40m",
+    "arrival": "20",
+    "income": "\u20ac44.50m",
+    "departures": "15",
+    "balance": "\u20ac34.10m"
+  },
+  {
+    "season": 2019,
+    "club": "Norwich City",
+    "expenditure": "\u20ac8.82m",
+    "arrival": "28",
+    "income": "\u20ac2.20m",
+    "departures": "29",
+    "balance": "\u20ac-6.62m"
+  },
+  {
+    "season": 2019,
+    "club": "Crystal Palace",
+    "expenditure": "\u20ac7.60m",
+    "arrival": "15",
+    "income": "\u20ac55.38m",
+    "departures": "15",
+    "balance": "\u20ac47.78m"
+  },
+  {
+    "season": 2020,
+    "club": "Chelsea FC",
+    "expenditure": "\u20ac247.20m",
+    "arrival": "41",
+    "income": "\u20ac57.15m",
+    "departures": "25",
+    "balance": "\u20ac-190.05m"
+  },
+  {
+    "season": 2020,
+    "club": "Manchester City",
+    "expenditure": "\u20ac173.40m",
+    "arrival": "37",
+    "income": "\u20ac65.65m",
+    "departures": "26",
+    "balance": "\u20ac-107.75m"
+  },
+  {
+    "season": 2020,
+    "club": "Leeds United",
+    "expenditure": "\u20ac127.80m",
+    "arrival": "17",
+    "income": "-",
+    "departures": "17",
+    "balance": "\u20ac-127.80m"
+  },
+  {
+    "season": 2020,
+    "club": "Tottenham Hotspur",
+    "expenditure": "\u20ac110.50m",
+    "arrival": "18",
+    "income": "\u20ac13.30m",
+    "departures": "13",
+    "balance": "\u20ac-97.20m"
+  },
+  {
+    "season": 2020,
+    "club": "Aston Villa",
+    "expenditure": "\u20ac101.35m",
+    "arrival": "14",
+    "income": "\u20ac2.77m",
+    "departures": "16",
+    "balance": "\u20ac-98.58m"
+  },
+  {
+    "season": 2020,
+    "club": "Wolverhampton Wanderers",
+    "expenditure": "\u20ac87.59m",
+    "arrival": "26",
+    "income": "\u20ac79.20m",
+    "departures": "25",
+    "balance": "\u20ac-8.39m"
+  },
+  {
+    "season": 2020,
+    "club": "Arsenal FC",
+    "expenditure": "\u20ac86.00m",
+    "arrival": "20",
+    "income": "\u20ac19.15m",
+    "departures": "19",
+    "balance": "\u20ac-66.85m"
+  },
+  {
+    "season": 2020,
+    "club": "Liverpool FC",
+    "expenditure": "\u20ac84.05m",
+    "arrival": "20",
+    "income": "\u20ac17.20m",
+    "departures": "14",
+    "balance": "\u20ac-66.85m"
+  },
+  {
+    "season": 2020,
+    "club": "Manchester United",
+    "expenditure": "\u20ac83.80m",
+    "arrival": "16",
+    "income": "\u20ac19.50m",
+    "departures": "13",
+    "balance": "\u20ac-64.30m"
+  },
+  {
+    "season": 2020,
+    "club": "Everton FC",
+    "expenditure": "\u20ac73.37m",
+    "arrival": "23",
+    "income": "\u20ac4.43m",
+    "departures": "21",
+    "balance": "\u20ac-68.95m"
+  },
+  {
+    "season": 2020,
+    "club": "Sheffield United",
+    "expenditure": "\u20ac62.70m",
+    "arrival": "17",
+    "income": "-",
+    "departures": "19",
+    "balance": "\u20ac-62.70m"
+  },
+  {
+    "season": 2020,
+    "club": "Leicester City",
+    "expenditure": "\u20ac59.40m",
+    "arrival": "21",
+    "income": "\u20ac53.77m",
+    "departures": "19",
+    "balance": "\u20ac-5.63m"
+  },
+  {
+    "season": 2020,
+    "club": "West Ham United",
+    "expenditure": "\u20ac54.70m",
+    "arrival": "18",
+    "income": "\u20ac45.41m",
+    "departures": "17",
+    "balance": "\u20ac-9.29m"
+  },
+  {
+    "season": 2020,
+    "club": "West Bromwich Albion",
+    "expenditure": "\u20ac42.14m",
+    "arrival": "23",
+    "income": "\u20ac8.10m",
+    "departures": "23",
+    "balance": "\u20ac-34.04m"
+  },
+  {
+    "season": 2020,
+    "club": "Newcastle United",
+    "expenditure": "\u20ac39.00m",
+    "arrival": "13",
+    "income": "\u20ac275k",
+    "departures": "15",
+    "balance": "\u20ac-38.73m"
+  },
+  {
+    "season": 2020,
+    "club": "Southampton FC",
+    "expenditure": "\u20ac37.30m",
+    "arrival": "24",
+    "income": "\u20ac26.30m",
+    "departures": "19",
+    "balance": "\u20ac-11.00m"
+  },
+  {
+    "season": 2020,
+    "club": "Fulham FC",
+    "expenditure": "\u20ac37.25m",
+    "arrival": "26",
+    "income": "-",
+    "departures": "24",
+    "balance": "\u20ac-37.25m"
+  },
+  {
+    "season": 2020,
+    "club": "Brighton & Hove Albion",
+    "expenditure": "\u20ac28.50m",
+    "arrival": "34",
+    "income": "\u20ac20.60m",
+    "departures": "23",
+    "balance": "\u20ac-7.90m"
+  },
+  {
+    "season": 2020,
+    "club": "Crystal Palace",
+    "expenditure": "\u20ac22.40m",
+    "arrival": "14",
+    "income": "\u20ac20.00m",
+    "departures": "8",
+    "balance": "\u20ac-2.40m"
+  },
+  {
+    "season": 2020,
+    "club": "Burnley FC",
+    "expenditure": "\u20ac1.10m",
+    "arrival": "6",
+    "income": "\u20ac2.30m",
+    "departures": "6",
+    "balance": "\u20ac1.20m"
+  },
+  {
+    "season": 2021,
+    "club": "Arsenal FC",
+    "expenditure": "\u20ac167.40m",
+    "arrival": "21",
+    "income": "\u20ac31.40m",
+    "departures": "20",
+    "balance": "\u20ac-136.00m"
+  },
+  {
+    "season": 2021,
+    "club": "Manchester United",
+    "expenditure": "\u20ac142.00m",
+    "arrival": "18",
+    "income": "\u20ac30.70m",
+    "departures": "12",
+    "balance": "\u20ac-111.30m"
+  },
+  {
+    "season": 2021,
+    "club": "Manchester City",
+    "expenditure": "\u20ac138.90m",
+    "arrival": "32",
+    "income": "\u20ac93.80m",
+    "departures": "22",
+    "balance": "\u20ac-45.10m"
+  },
+  {
+    "season": 2021,
+    "club": "Newcastle United",
+    "expenditure": "\u20ac130.50m",
+    "arrival": "13",
+    "income": "-",
+    "departures": "11",
+    "balance": "\u20ac-130.50m"
+  },
+  {
+    "season": 2021,
+    "club": "Aston Villa",
+    "expenditure": "\u20ac129.82m",
+    "arrival": "26",
+    "income": "\u20ac127.00m",
+    "departures": "20",
+    "balance": "\u20ac-2.82m"
+  },
+  {
+    "season": 2021,
+    "club": "Chelsea FC",
+    "expenditure": "\u20ac118.00m",
+    "arrival": "25",
+    "income": "\u20ac124.60m",
+    "departures": "23",
+    "balance": "\u20ac6.60m"
+  },
+  {
+    "season": 2021,
+    "club": "Tottenham Hotspur",
+    "expenditure": "\u20ac95.90m",
+    "arrival": "18",
+    "income": "\u20ac34.62m",
+    "departures": "20",
+    "balance": "\u20ac-61.28m"
+  },
+  {
+    "season": 2021,
+    "club": "Liverpool FC",
+    "expenditure": "\u20ac87.00m",
+    "arrival": "15",
+    "income": "\u20ac29.55m",
+    "departures": "12",
+    "balance": "\u20ac-57.45m"
+  },
+  {
+    "season": 2021,
+    "club": "Crystal Palace",
+    "expenditure": "\u20ac85.62m",
+    "arrival": "14",
+    "income": "-",
+    "departures": "16",
+    "balance": "\u20ac-85.62m"
+  },
+  {
+    "season": 2021,
+    "club": "Brighton & Hove Albion",
+    "expenditure": "\u20ac75.00m",
+    "arrival": "33",
+    "income": "\u20ac78.50m",
+    "departures": "29",
+    "balance": "\u20ac3.50m"
+  },
+  {
+    "season": 2021,
+    "club": "West Ham United",
+    "expenditure": "\u20ac74.50m",
+    "arrival": "10",
+    "income": "\u20ac4.24m",
+    "departures": "10",
+    "balance": "\u20ac-70.27m"
+  },
+  {
+    "season": 2021,
+    "club": "Leicester City",
+    "expenditure": "\u20ac67.60m",
+    "arrival": "12",
+    "income": "\u20ac4.00m",
+    "departures": "12",
+    "balance": "\u20ac-63.60m"
+  },
+  {
+    "season": 2021,
+    "club": "Norwich City",
+    "expenditure": "\u20ac63.55m",
+    "arrival": "34",
+    "income": "\u20ac38.40m",
+    "departures": "33",
+    "balance": "\u20ac-25.15m"
+  },
+  {
+    "season": 2021,
+    "club": "Leeds United",
+    "expenditure": "\u20ac58.90m",
+    "arrival": "16",
+    "income": "-",
+    "departures": "14",
+    "balance": "\u20ac-58.90m"
+  },
+  {
+    "season": 2021,
+    "club": "Burnley FC",
+    "expenditure": "\u20ac49.40m",
+    "arrival": "7",
+    "income": "\u20ac40.50m",
+    "departures": "6",
+    "balance": "\u20ac-8.90m"
+  },
+  {
+    "season": 2021,
+    "club": "Watford FC",
+    "expenditure": "\u20ac43.50m",
+    "arrival": "35",
+    "income": "\u20ac12.85m",
+    "departures": "30",
+    "balance": "\u20ac-30.65m"
+  },
+  {
+    "season": 2021,
+    "club": "Southampton FC",
+    "expenditure": "\u20ac43.10m",
+    "arrival": "11",
+    "income": "\u20ac60.37m",
+    "departures": "14",
+    "balance": "\u20ac17.27m"
+  },
+  {
+    "season": 2021,
+    "club": "Everton FC",
+    "expenditure": "\u20ac39.50m",
+    "arrival": "17",
+    "income": "\u20ac46.00m",
+    "departures": "16",
+    "balance": "\u20ac6.50m"
+  },
+  {
+    "season": 2021,
+    "club": "Wolverhampton Wanderers",
+    "expenditure": "\u20ac37.60m",
+    "arrival": "30",
+    "income": "\u20ac31.80m",
+    "departures": "22",
+    "balance": "\u20ac-5.80m"
+  },
+  {
+    "season": 2021,
+    "club": "Brentford FC",
+    "expenditure": "\u20ac36.70m",
+    "arrival": "19",
+    "income": "\u20ac1.00m",
+    "departures": "15",
+    "balance": "\u20ac-35.70m"
+  }
+]
